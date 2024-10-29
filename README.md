@@ -7,17 +7,17 @@ Gelişmeleri https://gurmezin.com adresinden de duyuracağız.
 
 Başlangıç aşamasında kategori başlıklarımız aşağıdaki gibi olacak:
 
-    ekonomi
-    bilim ve teknoloji
-    eğitim
-    tarih
+    bilimkurgu-fantazi
+    bilim-teknoloji
+    din-maneviyat
     edebiyat
+    egitim
+    ekonomi
     felsefe
+    medya
     siyaset
-    din ve maneviyat
-    bilimkurgu ve fantazi
     spor
-    sosyal bilimler
+    tarih
 
 ## Yapılacak İşler
 - Kategori başlıklarını belirlemek
