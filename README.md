@@ -2,7 +2,7 @@
 Türkçe Belge Sınıflandırma Projesi
 
 Bu projede Türkçe Belgeleri genel bir sınıflandırmaya tabi tutmak için bir veriseti oluşturacak ve kendi modelimizi eğiteceğiz.
-Gelişti,receğimiz modeli kullanarak, AKTA projesine eklediğimiz belgelerin katagorilerini belirleyeceğiz.
+Geliştireceğimiz modeli kullanarak, AKTA projesine eklediğimiz belgelerin kategorilerini belirleyeceğiz.
 Gelişmeleri https://gurmezin.com adresinden de duyuracağız.
 
 Başlangıç aşamasında kategori başlıklarımız aşağıdaki gibi olacak:
