@@ -158,8 +158,10 @@ Farklı BERT modellerini deneyebilirsiniz:
 ## Kodlama
 
 Kodlama çalışmalarını ağırlıklı olarak Claude 3.7 Sonnet ile birlikte yürüttük.
+Ürettiğimiz modelin bazı dosyaları 100MB'dan büyük olduğu için github yüklememize izin vermiyor.
+Ama bu modeli siz de kolaylıkla üretebilirsiniz.
 
-Kullandığımız sistem:
+## Kullandığımız sistem:
 Python3.12
 ## Hardware Information:
 - **Memory:**                                      32.0 GiB
