@@ -1,0 +1,17 @@
+Davranışsal Ekonomi: Ekonomik Analizin Yeni Bir Perspektifi
+
+Geleneksel ekonomi, bireylerin rasyonel, mantıklı ve egoist olduğunu varsayarak ekonomik davranışları analiz eder. Ancak, gerçek hayatta insanların davranışları her zaman bu kadar basit ve öngörülebilir değildir. İşte bu noktada davranışsal ekonomi devreye girer. Davranışsal ekonomi, psikoloji ve ekonomi arasındaki köprüyi kurarak, insanların karar alma süreçlerini daha gerçekçi bir şekilde anlamayı ve analiz etmeyi amaçlar.
+
+Geleneksel ekonomi, “rasyonel tercih” kavramına dayanır. Buna göre, bireyler her zaman en yüksek faydayı sağlayacak şekilde hareket ederler. Ancak, araştırmalar, insanların karar verirken duygusal, sosyal ve bilişsel sınırlamalara dayalı olarak farklı davranışlar sergilediğini göstermektedir. Davranışsal ekonomi, bu tür davranışsal sapmaları dikkate alarak, ekonomik modelleri daha gerçekçi hale getirmeyi hedefler.
+
+Davranışsal Ekonominin Temel Kavramları:
+- Sapmalar (Biases): İnsanların karar alma süreçlerinde sistematik hatalar veya önyargılar. Bunlar arasında “iktidar yanlılığı” (favori şeyleri daha olumlu değerlendirme), “kayıp ikazı” (kazıdan ziyade kârı daha fazla önleme), “çerçeveleme etkisi” (aynı bilgiyi farklı şekillerde sunulmasıyla farklı tepkiler verme) ve “sosyal normlar” gibi faktörler yer alır.
+- Nedenli Muhakeme (Nudge): İnsanların davranışlarını değiştirmek için, seçenekleri sunarken, bilinçli olarak küçük değişiklikler yaparak, tercihleri yönlendirme tekniğidir. Örneğin, bir kasada, daha sağlıklı yiyeceklerin daha öne yerleştirilmesi, insanların daha sağlıklı seçimler yapmasına yardımcı olabilir.
+- Sosyal Kanıt: İnsanların, başkalarının davranışlarını gözlemleyerek ve onlara göre hareket ederek karar verme eğilimi. Örneğin, bir restoranın meşhur olması, insanların o restoranda yemek yeme olasılığını artırabilir.
+- Hızlandırılmış Karar Alma (Heuristics): Karmaşık sorunları çözmek için, insanların kullandığı basit ve hızlı karar alma stratejileri. Bu stratejiler her zaman en iyi sonucu vermese de, zaman ve çabanın azalmasına yardımcı olabilir.
+
+Davranışsal Ekonominin Uygulama Alanları:
+
+Davranışsal ekonomi, finans, pazarlama, sağlık ve kamu politikası gibi çeşitli alanlarda uygulanmaktadır. Örneğin, emeklilik tasarruf oranlarını artırmak için, otomatik emeklilik planları tasarlanabilir. Sağlık alanında, insanların daha sağlıklı davranışlar sergilemesini sağlamak için, davranışsal tasarruf yöntemleri kullanılabilir.
+
+Sonuç olarak, davranışsal ekonomi, ekonomik analizin geleneksel yaklaşımlarını tamamlayarak, insan davranışlarının daha gerçekçi bir şekilde anlaşılmasını ve ekonomik politikaların daha etkili bir şekilde tasarlanmasını sağlamaktadır. İnsanların karar alma süreçlerini anlamak, ekonomik modelleri daha doğru hale getirirken, aynı zamanda daha iyi politikalar geliştirmemize de yardımcı olacaktır.

@@ -1,0 +1,22 @@
+Dalga-Parçacık İkilemi: Evrenin Temel Çatışması
+
+Dalga-parçacık ikilemi, modern fiziğin en temel ve aynı zamanda en karmaşık kavramlarından biridir. Bu ikilem, maddenin ve enerjinin aslında ayrı ayrı varlıklar yerine, aynı temel özdeyiğin farklı tezahürleri olduğunu öne sürer. Basitçe ifade etmek gerekirse, bir nesne aynı anda hem dalga gibi davranabilir hem de parçacık gibi. Bu durum, klasik fiziğin temel varsayımlarıyla çelişir ve evrenin nasıl işlediğine dair derin bir anlayış gerektirir.
+
+Dalgalık ve Parçacık Olmak Ne Anlama Gelir?
+
+Klasik fizikte, nesneler ya dalgalar ya da parçacıklar olarak tanımlanır. Parçacıklar, belirli bir konum ve momentum değerine sahip, tanımlanabilir ve yerleşik varlıklardır. Örneğin, bir topun konumu ve hızı kesin olarak bilinir. Buna karşılık, dalgalar, uzayda yayılabilen, belirli frekanslara ve genliklere sahip bozulmalardır. Su dalgaları veya ses dalgaları gibi.
+
+Ancak, 20. yüzyılın başlarında yapılan deneyler, bu iki kavramı bir araya getiren bir gerçekliğe işaret etti. Özellikle, 1905 yılında Albert Einstein tarafından yayınlanan fotoelektrik etkili teoride, ışığın aynı zamanda hem dalga hem de parçacık (foton) olarak davranabileceği gösterildi. Daha sonra, 1926 yılında Louis de Broglie, tüm parçacıkların da dalga özelliklerine sahip olabileceğini öne sürdü.
+
+Deneylerle Kanıtlanması
+
+Dalga-parçacık ikilemi, çeşitli deneylerle kanıtlanmıştır. Örneğin:
+- Elektronların Yayılımı: Elektronlar, bir kristal kafes içinde hareket ederken hem dalga hem de parçacık gibi davranır. Bu durum, elektronların dalga-parçacık ikilemini gösteren ilk kanıtlar arasındadır.
+- Difraksiyon Deneyleri: Işığın, bir mercek veya delikten geçtikten sonra, bir duvarda girişim desenleri oluşturması, ışığın dalga özelliğini gösterir.
+- Çift Delikli Tünel Deneyi: Bu deney, bir elektronun aynı anda iki delikten geçebileceğini ve bu durumun dalga-parçacık ikileminin en çarpıcı kanıtlarından biridir.
+
+Kuantum Mekaniği ve İkilem
+
+Dalga-parçacık ikilemi, kuantum mekaniğinin temelini oluşturur. Kuantum mekaniği, atom ve atom altı parçacıkların davranışlarını tanımlayan bir teoridir. Bu teori, parçacıkların ve dalgaların aynı anda hem dalga hem de parçacık gibi davranabileceğini kabul eder. Bu durum, kuantum mekaniğinin en temel ve en ilginç özelliklerinden biridir.
+
+Sonuç olarak, dalga-parçacık ikilemi, evrenin temel yapısını anlamamız için kritik bir kavramdır. Bu ikilem, klasik fiziğin sınırlarını aşarak, maddenin ve enerjinin nasıl etkileşimde bulunduğunu ve evrenin nasıl işlediğini anlamamızı sağlar.

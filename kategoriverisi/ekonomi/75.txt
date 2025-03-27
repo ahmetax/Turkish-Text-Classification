@@ -1,0 +1,25 @@
+Oyun Teorisi: Ekonominin Analizinde Bir Araç
+
+Oyun Teorisi, klasik ekonomi anlayışının ötesine geçen, stratejik düşünceyi ve karar alma süreçlerini matematiksel bir çerçevede inceleyen bir disiplindir. Temel olarak, birden fazla aktörün (kişi, şirket, devlet vb.) birbirleriyle etkileşimde bulundukları ve her bir kararının diğerlerinin kararlarına bağlı olduğu durumları analiz eder. Bu yaklaşım, özellikle rekabetçi piyasalar, müzekteler, pazarlıklar ve diğer stratejik etkileşimlerin anlaşılması için güçlü bir araç sunar.
+
+Oyun Teorisinin Temel Kavramları:
+- Oyuncu: Oyun teorisinde, etkileşime giren her bir aktör "oyuncu" olarak kabul edilir.
+- Strateji: Bir oyuncunun, diğer oyuncuların stratejilerine göre nasıl davranacağını belirleyen planıdır.
+- Ödül (Payoff): Bir oyuncunun stratejisi seçtikten sonra elde ettiği sonuçtur. Bu sonuç, mali, sosyal veya diğer türde bir kazanç veya kayıp olabilir.
+- Nash Dengesi: Oyun teorisinin en önemli kavramlarından biridir. Bir Nash Dengesi, hiçbir oyuncunun kendi stratejisini değiştirerek daha iyi bir sonuç elde edemeyeceği bir strateji kombinasyonudur. Başka bir deyişle, her oyuncu diğer oyuncuların stratejilerine göre en iyi stratejiyi seçmiştir.
+
+Ekonomide Oyun Teorisi Uygulamaları:
+
+Oyun Teorisi, ekonominin birçok alanında uygulanmaktadır:
+- Rekabetçi Piyasalar: Firmaların fiyatlandırma stratejilerini, pazarlama kampanyalarını ve ürün geliştirme kararlarını anlamak için kullanılır. Örneğin, "Prisoner's Dilemma" (Tutuklunun Dilemi) oyunu, firmaların rekabet halindeki davranışlarını modellemek için sıklıkla kullanılır.
+- Müzekteler ve Pazarlıklar: Müzektelerde, tarafların birbirlerine nasıl sundukları ve karşılıklı çıkarlarını nasıl değerlendirdikleri analiz edilir.
+- Finans: Yatırımcıların davranışlarını, hisse senedi fiyatlarını ve piyasa dalgalanmalarını anlamak için kullanılır.
+- Kamu Politikası: Vergi politikaları, çevre düzenlemeleri ve diğer kamu politikalarının etkilerini analiz etmek için kullanılır.
+
+Oyun Teorisinin Sınırlamaları:
+
+Oyun Teorisi, mükemmel bir analiz aracı olmasa da, ekonomik davranışları anlamak için önemli bir çerçeve sunar. Bazı sınırlamaları vardır:
+- Rasyonellik Varsayımı: Oyun Teorisi, oyuncuların her zaman rasyonel ve kendi çıkarlarını maksimize eden kararlar aldıklarını varsayar. Ancak, gerçek hayatta insanların duygusal, sosyal ve psikolojik faktörlerden etkilenebileceği bilinmelidir.
+- Karmaşıklık: Bazı oyunlar, çok sayıda oyuncu ve karmaşık stratejiler içerdiğinden, analiz edilmesi oldukça zor olabilir.
+
+Sonuç olarak, Oyun Teorisi, ekonomik analiz için güçlü bir araçtır ve ekonomik davranışları anlamak, stratejik kararlar almak ve piyasaları daha iyi tahmin etmek için kullanılabilir. Ancak, bu teorinin sınırlamalarının farkında olmak ve diğer analiz yöntemleriyle birlikte kullanmak, daha kapsamlı ve doğru sonuçlar elde etmeye yardımcı olacaktır.

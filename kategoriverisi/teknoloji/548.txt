@@ -1,0 +1,24 @@
+HTML ve Web Programlama Dünyamızı Nasıl Değiştiriyor?
+
+Web teknolojileri, modern yaşamın ayrılmaz bir parçası haline geldi. Bu teknolojilerin temelini ise HTML (HyperText Markup Language) ve web programlama kavramları oluşturuyor. Basit bir başlangıçtan karmaşık ve etkileşimli deneyimlere kadar, HTML ve web programlama, dijital dünyayı ve hatta fiziksel dünyayı nasıl etkilediğini derinden değiştiriyor.
+
+HTML’in Rolü: Web Sayfalarının Temeli
+
+HTML, web sayfalarının yapısını tanımlayan bir işaretleme dilidir. Bir web sayfasının içeriğini – metin, resim, bağlantılar, tablolar, formlar – oluşturmak için kullanılır. Temel olarak, bir web sayfasının “skeleti”ni oluşturur. HTML etiketleri kullanarak, içeriğin nasıl görüntüleneceğini ve düzenleneceğini belirtir. Örneğin, <p> etiketi bir paragraf oluştururken, <img> etiketi bir resim eklemek için kullanılır.
+
+Web Programlama: Etkileşimi Artıran Teknoloji
+
+HTML, web sayfalarının yapısını tanımlarken, web programlama, bu sayfaların dinamik ve etkileşimli olmasını sağlar. Web programlama, farklı teknolojilerden oluşan bir bütündür ve web sayfalarının davranışını kontrol eder. Bu teknolojiler arasında JavaScript, CSS (Cascading Style Sheets) ve PHP gibi diller yer alır.
+- JavaScript: Web sayfalarına dinamik özellikler ekler. Kullanıcının etkileşimine yanıt olarak sayfada değişiklikler yapabilir, animasyonlar oluşturabilir ve hatta sunucuyla iletişim kurabilir.
+- CSS: Web sayfalarının görünümünü kontrol eder. Renkler, yazı tipleri, düzenler ve diğer görsel öğeler için kullanılır.
+- PHP: Sunucu tarafında çalışan bir betik dilidir. Veritabanlarıyla iletişim kurmak, kullanıcı bilgilerini yönetmek ve dinamik web sayfaları oluşturmak için kullanılır.
+
+Değişen Dünyada HTML ve Web Programlama
+
+HTML ve web programlama, hayatımızın birçok alanında köklü değişikliklere yol açmıştır:
+- E-ticaret: Online alışveriş siteleri, HTML ve web programlama sayesinde kullanıcıların ürünleri görüntülemesini, sepete eklemesini ve ödeme yapmasını sağlar.
+- Eğitim: Online dersler, interaktif öğrenme materyalleri ve uzaktan eğitim platformları, HTML ve web programlama ile geliştirilir.
+- Haber ve Medya: Online haber siteleri, video platformları ve sosyal medya platformları, HTML ve web programlama ile oluşturulmuştur.
+- Sağlık: Online randevu sistemleri, elektronik sağlık kayıtları ve uzaktan hasta takibi, HTML ve web programlama ile desteklenir.
+
+Sonuç olarak, HTML ve web programlama, dijital çağın temelini oluşturur ve hayatımızın her alanında sürekli olarak yenilikler ve gelişmelerin önünü açar. Bu teknolojilerin gelişimi, daha kullanıcı dostu, daha etkileşimli ve daha verimli dijital deneyimler sunarak dünyayı daha da değiştirmeye devam edecektir.

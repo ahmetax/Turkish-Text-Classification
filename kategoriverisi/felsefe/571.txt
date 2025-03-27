@@ -1,0 +1,20 @@
+Felsefe Tarihindeki Teknoloji Felsefesi Kavramı
+
+Teknoloji felsefesi, modern anlamda ortaya çıkışını 20. yüzyılın sonlarına doğru yapan, teknolojinin insan yaşamı, toplum ve kültür üzerindeki etkilerini, değerlerini ve etik boyutlarını inceleyen bir felsefi disiplindir. Ancak, teknolojinin felsefi tartışmalarında kökleri, antik çağlardan itibaren farklı düşünürlerin düşüncelerine ulaşabilir. Bu disiplin, sadece teknolojik araçların kendilerini değil, aynı zamanda bu araçların kullanımının, toplumdaki rolünün ve insan varoluşu üzerindeki etkilerinin de derinlemesine analizini kapsar.
+
+Antik ve Orta Çağ’da Teknolojik Düşünceler
+
+Antik Yunan felsefesinde teknolojiye dair ilk düşünceler, Platon ve Aristoteles’in eserlerinde kendini gösterir. Platon, teknolojiyi “doğrunun” (logos) yanlış kullanımına, yani ideal formların bozulmasına yol açan bir güç olarak görür. Aristoteles ise, teknolojiyi “pratik akıl” olarak tanımlar ve insanı çevresini değiştirmeye, iyileştirmeye yönelik çabalarını destekler. Aristoteles’e göre, teknoloji, insanı daha iyi bir yaşam sürmeye yöneltir ve aklın pratik bir ifadesidir. Ancak, bu dönemde teknoloji, genellikle ahlaki bir bağlamda ele alınır, yani “doğru” ve “yanlış” kullanım arasındaki ayrım önemlidir.
+
+Orta Çağ’da İslam dünyasında, özellikle İslam felsefesi ve bilimde teknolojiye dair önemli çalışmalar yapılmıştır. İbni Sina (Avicenna) ve İbni Rüşd (Averroes) gibi düşünürler, Yunan felsefesini İslam düşüncesiyle harmanlayarak, teknolojik bilgiyi ve pratikleri, aklın ve ilmin bir parçası olarak görmüşlerdir.
+
+Modern Dönemde Teknolojinin Felsefi İncelemeleri
+
+Modern dönemde, özellikle 19. ve 20. yüzyıllarda, teknolojinin felsefi tartışmaları daha da yoğunlaşmıştır. Endüstriyel devrim ve bilimsel gelişmeler, teknolojinin insan yaşamındaki rolünü ve etkisini daha da belirgin hale getirmiştir. 
+- Martin Heidegger: Teknolojiyi, “doğayı boyayan” (enframing) bir güç olarak görür, yani insanı çevresiyle ilişkilendirme biçimimizi değiştirir. Heidegger’e göre, teknoloji, insanı doğadan ayırır ve onu bir “şey” olarak görmesine neden olur.
+- Jacques Ellul: Teknolojiyi, “toplumsal bir güç” olarak tanımlar ve onu, insan iradesinden bağımsız olarak gelişen, kendi içinde hareket eden bir güç olarak görür.
+- Langton Murdoch: Teknolojiyi, “insan aklının bir aracı” olarak tanımlar ve onu, insanı daha karmaşık sorunları çözmeye ve daha karmaşık sistemleri yönetmeye yönelten bir araç olarak görür.
+
+Günümüzde, teknoloji felsefesi, yapay zeka, robotik, biyoteknoloji gibi yeni teknolojilerin ortaya çıkmasıyla birlikte daha da önem kazanmaktadır. Bu disiplin, teknolojinin etik, sosyal ve kültürel etkilerini anlamak ve gelecekteki teknolojilerin insan yaşamı üzerindeki etkilerini şekillendirmek için önemli bir rol oynamaktadır.
+
+Sonuç olarak, teknoloji felsefesi, insanlık tarihinin farklı dönemlerinde ortaya çıkan teknolojik düşünceleri bir araya getirerek, teknolojinin insan yaşamı üzerindeki karmaşık etkilerini anlamamıza yardımcı olur. Bu disiplin, teknolojiyi sadece bir araç olarak değil, aynı zamanda insan varoluşu, toplum ve kültür üzerindeki derin etkilerini anlamak için birer pencere olarak sunar.

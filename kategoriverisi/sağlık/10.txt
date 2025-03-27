@@ -1,0 +1,35 @@
+Tüberküloz (TB) ve TB Deri Testi Hakkında Sağlık Bilgileri
+
+Tüberküloz, “TB” olarak da bilinen ve Mycobacterium tuberculosis adlı bakterinin neden olduğu bulaşıcı bir hastalıktır. Bu bakteri, özellikle akciğerleri etkileyerek kronik bir enfeksiyona yol açabilir. Tüberküloz, tarihsel olarak “çürüklendikçe” olarak tanımlanmış, yani vücudun iç organlarında çürüme ve bozulma gibi bir görüntüye neden oluyormuş. Günümüzde ise tedaviyle kontrol altına alınabilen, tedaviye uyulduğunda iyileşen bir hastalıktır.
+
+Tüberkülozun Belirtileri Nelerdir?
+
+Tüberkülozun belirtileri, hastalığın evresine ve kişinin bağışıklık sistemine göre değişiklik gösterebilir. En sık görülen belirtiler şunlardır:
+- Öksürük: Genellikle uzun süreli, kanlı balgam üretimiyle karakterizedir.
+- Kevser (Hırıltı): Akciğerlerdeki hava kesesinin tıkanması sonucu oluşan hırıltı sesi.
+- Şiddetli Halsizlik ve Yorgunluk: Hastalığın ilerleyen evrelerinde sık görülür.
+- Aptisizlik ve Açlık Hali: Özellikle yemek yeme isteği azalabilir.
+- Kilo Kaybı: Hastalığın ilerleyen evrelerinde görülebilir.
+- Sıcak Basınç Halindeki Alnın Titremesi: Özellikle geceleri terleme şeklinde kendini gösterebilir.
+
+TB Deri Testi (Mantar Testi) Nedir?
+
+TB tanısında kullanılan en yaygın yöntemlerden biri olan deri testi (mantar testi)dir. Bu test, hastanın bağışıklık sisteminin TB bakterisine karşı tepki verip vermediğini değerlendirmek için kullanılır. Test, basit ve ucuz bir yöntemdir.
+
+Test Nasıl Yapılır?
+
+Deri testi, bir sağlık çalışanı tarafından yapılır. Çalışan, hastanın koluna veya bacağına küçük bir kesi yapar ve içine bir miktar TB bakterisi içeren bir solüsyon yerleştirir. Eğer hasta TB bakterisine karşı bağışıklık tepkisi gösteriyorsa, test bölgesinde hafif bir şişlik ve kızarıklık oluşur. Bu durum genellikle 48-72 saat sonra ortaya çıkar.
+
+Deri Testinin Sınırlamaları
+
+Deri testi, TB’ye karşı bağışıklık tepkisi olduğunu gösterse de, her zaman doğru sonuç vermeyebilir. Özellikle bağışıklık sistemi zayıf olan kişilerde veya HIV gibi başka enfeksiyonlar olan kişilerde yanlış pozitif veya yanlış negatif sonuçlar görülebilir.
+
+TB Tanısı İçin Diğer Yöntemler
+
+Deri testi, TB tanısında sadece bir araçtır. Kesin tanı için yapılan diğer yöntemler şunlardır:
+- Akciğer Grafisi (Röntgen): Akciğerlerdeki hasarı ve TB lezyonlarını tespit eder.
+- Bilgisayarlı Tomografi (BT): Akciğerlerin daha detaylı görüntülerini sağlar.
+- Mantari Test (Mikobakteri Kültürü): Balgam örneğinin laboratuvar ortamında incelenerek bakterinin tespit edilmesi.
+- PCR (Polimeraz Zincir Reaksiyonu): Balgam veya diğer örneklerdeki TB bakterisinin genetik materyalinin tespit edilmesi.
+
+Unutmayın, tüberküloz erken teşhis ve tedavi ile başarıyla kontrol altına alınabilir. Şüphelenmeniz durumunda mutlaka bir sağlık kuruluşuna başvurarak gerekli testleri yaptırmanız önemlidir.

@@ -1,0 +1,28 @@
+Ekonomik Açıdan Çevre Ekonomisi Değerlendirmesi
+
+Çevre ekonomisi, çevrenin değerini ekonomik bir perspektiften değerlendiren ve doğal kaynakların sürdürülebilir kullanımını destekleyen bir disiplindir. Geleneksel ekonomi, doğal kaynakları genellikle sınırsız ve ücretsiz kabul ederken, çevre ekonomisi bu yaklaşımı sorgulayarak çevrenin insan yaşamı ve ekonomiye olan katkısını ölçmeye ve değerlendirmeye odaklanır. Bu yaklaşım, çevrenin korunması ve sürdürülebilirliği için daha bilinçli kararlar alınmasına zemin hazırlar.
+
+Değerlendirme Yöntemleri:
+
+Çevre ekonomisi, çevrenin değerini değerlendirmek için çeşitli yöntemler kullanır. Bu yöntemler genel olarak iki ana kategoriye ayrılabilir:
+- Piyasanın Dışı Değerler (Non-Market Values): Piyasa mekanizması aracılığıyla doğrudan ölçülemeyen değerlerdir. Bunlar arasında ekolojik hizmetler (su arıtma, toprak verimliliği, iklim düzenlemesi), rekreasyonel değerler (doğa turizmi, piknik alanları), kültürel değerler (tarihi ve doğal siteler) ve estetik değerler yer alır. Bu değerleri ölçmek için çeşitli yöntemler kullanılır:
+- Tüketim Maliyeti Yöntemi: Bir hizmetin kullanımından kaynaklanan maliyetlerin hesaplanması.
+- Tüketim Alternatif Yöntemi: Bir hizmeti kullanmanın yerine başka bir şey kullanmanın maliyetinin hesaplanması.
+- Tüketim Alternatif Yöntemi (TALY): Bir hizmetin kullanımından vazgeçmenin maliyetinin hesaplanması.
+- Tüketim Alternatif Yöntemi (TALY): Bir hizmetin kullanımından vazgeçmenin maliyetinin hesaplanması.
+- Değerlendirme (Valuation) Yöntemi: Bir hizmetin kullanımından vazgeçmenin maliyetinin hesaplanması.
+- Piyasanın İçi Değerler (Market Values): Piyasa fiyatlarıyla doğrudan ölçülebilen değerlerdir. Bunlar arasında doğal kaynakların (ormanlar, su kaynakları, madenler) doğrudan kullanım değerleri, arazi değerleri ve turizm gelirleri yer alır.
+
+Çevre Ekonomisinin Önemi:
+
+Çevre ekonomisi, sürdürülebilir kalkınma hedeflerine ulaşmada kritik bir rol oynar. Doğal kaynakların sürdürülebilir kullanımını sağlamak, çevresel kirliliği azaltmak ve biyoçeşitliliği korumak için gerekli olan ekonomik araçları ve stratejileri belirlemede yardımcı olur. Ayrıca, çevre politikalarının etkinliğini değerlendirmek ve çevre maliyetlerini hesaplamak için de kullanılır.
+
+Uygulama Alanları:
+
+Çevre ekonomisi, çeşitli alanlarda uygulanır:
+- Doğal Kaynak Yönetimi: Ormanlar, su kaynakları, madenler gibi doğal kaynakların sürdürülebilir kullanımını sağlamak.
+- Çevre Politikası: Çevre koruma ve kirlilik kontrolü politikalarının geliştirilmesi ve değerlendirilmesi.
+- Sürdürülebilir Kalkınma: Ekonomik büyüme ile çevresel sürdürüleşmeyi bir arada sağlamak.
+- İklim Değişikliği: İklim değişikliğinin ekonomik etkilerini değerlendirmek ve azaltma stratejileri geliştirmek.
+
+Sonuç olarak, çevre ekonomisi, çevrenin değerini ekonomik bir perspektiften değerlendirerek, sürdürülebilir kalkınma ve çevresel sürdürüleşme hedeflerine ulaşmada önemli bir araçtır. Doğal kaynakların korunması ve gelecek nesiller için çevrenin sürdürülebilirliği için bilinçli kararlar alınmasına katkıda bulunur.

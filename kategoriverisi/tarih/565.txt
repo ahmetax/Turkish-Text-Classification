@@ -1,0 +1,21 @@
+İnternetin Tarihi: Bir Devrimin Doğuşu ve Evrimi
+
+İnternet, günümüz dünyasının en temel ve etkili araçlarından biri haline gelmiş, hayatımızın her alanına nüfuz etmiş bir devrimdir. Ancak bu devrimin kökleri, 20. yüzyılın ortalarına kadar uzanır ve karmaşık bir gelişim sürecinin sonucudur. İnternetin tarihsel önemini anlamak, günümüzdeki dijital dünyayı ve geleceğini şekillendirmede bu sürecin ne kadar kritik olduğunu anlamamızı sağlar.
+
+İlk Adımlar: ARPANET ve Paket Veri İletimi
+
+İnternetin temelleri, Soğuk Savaş döneminde ABD Savunma Bakanlığı’nın (DoD) ihtiyaçları doğrultusunda atılmıştır. 1969’da kurulan ARPANET (Advanced Research Projects Agency Network), ilk veri iletişim ağıydı. Amaç, merkezi bir sistemin yok olması durumunda bile iletişim kurabilen, kendini onarabilen bir ağ oluşturmaktı. ARPANET, paket veri iletimi yöntemini kullanarak, veriyi küçük parçalara bölüp, bu parçaları farklı yollarla hedefe ulaştırmış ve hedefe ulaştıktan sonra birleştirerek iletişimi sağlamıştır. Bu yöntem, günümüz internetinin temelini oluşturmuştur.
+
+TCP/IP ve Ajanın Doğuşu
+
+1970'lerde, ARPANET’in kullanımı arttıkça, ağın standartlaşması ve farklı ağların birbirleriyle iletişim kurabilmesi için bir ihtiyaç ortaya çıktı. Bu ihtiyaç, TCP/IP (Transmission Control Protocol/Internet Protocol) protokollerinin geliştirilmesiyle karşılanmıştır. TCP/IP, internetin temel protokollerini oluşturarak, farklı ağların birbirleriyle iletişim kurmasını sağlamıştır. 1983’te ARPANET, TCP/IP protokollerini benimseyince, internet adının doğmasıyla birlikte, internetin resmi olarak başlamış olduğu kabul edilmiştir.
+
+World Wide Web’in Yükselişi
+
+1989’da Tim Berners-Lee tarafından geliştirilen World Wide Web (WWW), internetin kullanıcı dostu arayüzünü sunarak, internetin yaygınlaşmasında kilit bir rol oynamıştır. HTTP (Hypertext Transfer Protocol), HTML (Hypertext Markup Language) ve URL (Uniform Resource Locator) gibi teknolojiler, web sayfalarını oluşturmak, paylaşmak ve erişmek için standartlar belirlemiştir. 1991’de internete halka açık hale gelmesiyle birlikte, web sitelerinin sayısı hızla artmış ve internet, bireylerin bilgiye erişimini ve iletişimini kolaylaştırmıştır.
+
+Günümüz ve Gelecek
+
+Günümüzde internet, sosyal medya, e-ticaret, online eğitim, akış hizmetleri ve daha birçok alanda hayatımızı etkilemektedir. Mobil teknolojilerin gelişimi ve geniş bant internetin yaygınlaşması, internetin erişilebilirliğini artırmış ve dijitalleşmeyi hızlandırmıştır. Gelecekte, internetin daha da gelişeceği, yapay zeka, nesnelerin interneti (IoT) ve 5G gibi teknolojilerle birlikte daha da entegre hale geleceği öngörülmektedir.
+
+Sonuç olarak, internetin tarihi, sadece bir teknolojik gelişme değil, aynı zamanda insanlık tarihinin bir dönüm noktasıdır. Bu devrimin, bilgiye erişimi kolaylaştırmış, iletişimi hızlandırmış ve dünyayı daha küçük bir yer haline getirmiştir. İnternetin bu tarihsel önemi, günümüz dünyasının ve geleceğin şekillenmesinde vazgeçilmez bir rol oynamaya devam edecektir.

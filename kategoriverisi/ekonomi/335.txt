@@ -1,0 +1,17 @@
+Ekonomik Açıdan Mikro Ekonomi Değerlendirmesi
+
+Mikro ekonomi, bir ekonominin temel yapı taşlarını inceleyen, bireysel ve işletme düzeyindeki ekonomik davranışları analiz eden bir dalıdır. Makro ekonominin aksine, geniş çaplı ekonomik göstergeler yerine, bireylerin ve firmaların karar alma süreçlerini, piyasaların nasıl işlediğini ve kaynakların nasıl dağıtıldığını anlamaya odaklanır. Bu yaklaşım, ekonomik politikaların etkilerini daha iyi değerlendirmemize ve daha doğru tahminler yapmamıza yardımcı olur.
+
+Mikro Ekonominin Temel Unsurları:
+- Rasyonel Seçim Teorisi: Mikro ekonominin temelini oluşturan bu teori, bireylerin ve firmaların kendi çıkarına hareket ettiklerini, yani rasyonel kararlar verdiklerini varsayar. Bireyler, sınırlı kaynaklarla en iyi sonucu elde etmek için tercihleri arasında en iyi dengeyi bulmaya çalışırlar.
+- Tedarik ve Talep Analizi: Piyasalarda fiyatların belirlenmesinde temel rol oynayan bu analiz, arz ve talebin etkileşimini inceler. Arz, bir mal veya hizmetin üreticiler tarafından sunulma isteğini, talep ise tüketicilerin bu mal veya hizmete olan isteğini temsil eder. Arz ve talebin dengelenmesi, piyasa fiyatını belirler.
+- Maliyet ve Karlılık Analizi: Firmaların karar alma süreçlerinde önemli rol oynayan bu analiz, bir mal veya hizmetin üretilmesiyle ilgili maliyetleri ve bu maliyetlerden elde edilen karları değerlendirir. Bu analiz, firmaların hangi ürünleri üretmesi gerektiğine, ne kadar üretmesi gerektiğine ve ne kadar fiyat belirlemesi gerektiğine karar vermesinde yardımcı olur.
+- Oyun Teorisi: Birden fazla aktörün (birey veya firma) birbirleriyle etkileşimde bulundukları durumları analiz eder. Bu teori, rekabetçi piyasalarda firmaların davranışlarını, pazarlama stratejilerini ve anlaşma yapma süreçlerini anlamak için kullanılır.
+
+Mikro Ekonominin Uygulama Alanları:
+- Rekabetçi Piyasa Analizi: Bir ürünün piyasadaki rekabet düzeyini, firmaların fiyat stratejilerini ve tüketicilerin davranışlarını analiz eder.
+- Fiyatlandırma Stratejileri: Firmaların ürünlerini nasıl fiyatlandıracağını, indirim ve promosyon stratejilerini belirlemede yardımcı olur.
+- İşgücü Piyasası Analizi: İşgücü arzı ve talebi, ücretlerin belirlenmesi ve işgücü piyasasının dinamiklerini anlamak için kullanılır.
+- Yatırım Kararları: Firmaların hangi projelerde yatırım yapacağına, riskleri nasıl değerlendireceğine ve karlılık beklentilerini nasıl belirleyeceğine karar vermesinde rol oynar.
+
+Sonuç olarak, mikro ekonomi, ekonomik analiz için güçlü bir araçtır. Bireysel ve işletme düzeyindeki kararları anlamak, piyasaların nasıl işlediğini anlamak ve ekonomik politikaların etkilerini daha iyi değerlendirmek için vazgeçilmezdir. Bu yaklaşım, daha sürdürülebilir ve verimli ekonomik sistemler oluşturmamıza katkıda bulunur.

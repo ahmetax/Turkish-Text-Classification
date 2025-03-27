@@ -1,0 +1,25 @@
+Duygusal Kararların Ekonomik Analizi: Rasyonelliğin Ötesinde Bir Bakış
+
+Ekonomi, geleneksel olarak rasyonel karar verme modeline dayanır. Bu model, bireylerin ve şirketlerin kendi çıkarı için en iyi fırsatları seçtiği, mantıklı ve hesaplı kararlar aldığı varsayımına dayanır. Ancak son yıllarda, davranışsal ekonomi ve nörobilim alanlarındaki gelişmeler, insanların kararlarını etkileyen duygusal faktörlerin önemini vurgulayarak bu yaklaşımın ötesine geçilmesinin gerektiğini göstermiştir. Duygusal kararlar, ekonomik analizlerde göz ardı edilemeyecek kadar önemli bir rol oynamaktadır.
+
+Duygusal Kararların Kaynakları:
+
+Duygusal kararlar, temel olarak şunlardan kaynaklanır:
+- Anlık Duygular: Mutluluk, öfke, korku, üzüntü gibi anlık duygular, rasyonel düşünme yeteneğini baskılayabilir ve bireyin davranışlarını önemli ölçüde etkileyebilir. Örneğin, bir hisse senedi yatırımcısının panik satışları veya bir tüketicinin ani bir alışveriş isteği, duygusal tepkilerden kaynaklanabilir.
+- Takviyecilik (Reinforcement Learning): İnsanlar, geçmiş deneyimlerinden öğrenerek, belirli davranışları pekiştiren sonuçlara odaklanma eğilimindedir. Bu, reklamların ve pazarlama stratejilerinin etkili olmasına yol açar.
+- Sosyal Etkiler: İnsanlar, başkalarının davranışlarını taklit etme (taklit etme) ve sosyal normlara uyma eğilimindedir. Bu durum, tüketim alışkanlıklarını ve yatırım kararlarını etkileyebilir.
+- Çerçeveleme Etkisi (Framing Effect): Bir sorunun veya durumun sunuluş şekli, insanların karar verme sürecini önemli ölçüde etkileyebilir. Örneğin, bir ürünün "%80 yağsız" olarak sunulması, "%20 yağ içeren" olarak sunulmaktan daha cazip görünebilir.
+
+Ekonomiye Etkileri:
+
+Duygusal kararların ekonomiye etkileri oldukça çeşitlidir:
+- Piyasa Dalgalanmaları: Duygusal tepkiler, hisse senedi fiyatlarında ani ve büyük dalgalanmalara neden olabilir.
+- Tüketici Davranışı: Duygusal faktörler, tüketici harcamalarını ve tercihlerini etkileyerek, belirli ürünlerin veya hizmetlerin daha hızlı tüketilmesini sağlayabilir.
+- Kredi Riski: Duygusal stres, bireylerin kredi ödeme kapasitesini azaltabilir ve kredi riskini artırabilir.
+- Yatırım Kararları: Duygusal kararlar, yatırımcıların risk toleransını etkileyebilir ve yanlış yatırım kararlarına yol açabilir.
+
+Ekonomik Analizde Duygusal Kararların Rolü:
+
+Ekonomistler, davranışsal ekonomiye dayanarak, insanların rasyonel olmadığını kabul ederek, daha gerçekçi ve kapsamlı modeller geliştirmeye çalışmaktadır. Bu modeller, duygusal faktörleri hesaba katarak, piyasaların ve ekonomik sistemlerin daha doğru bir şekilde anlaşılmasını sağlamaktadır.  Duygusal kararların ekonomik analizlerdeki rolü, sadece tüketici davranışlarını anlamakla kalmayıp, aynı zamanda piyasaların nasıl çalıştığını ve ekonomik politikaların etkilerini daha iyi anlamamızı sağlar.
+
+Sonuç olarak, duygusal kararların ekonomik analizlerdeki rolü, rasyonelliğin ötesine geçerek, ekonomik sistemlerin daha karmaşık ve dinamik bir şekilde anlaşılmasını sağlamaktadır.

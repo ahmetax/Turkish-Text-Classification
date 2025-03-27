@@ -1,0 +1,25 @@
+Dalga-Parçacık İkilemi: Evrenin Temel Çatışması
+
+Dalga-parçacık ikilemi, modern fiziğin en temel ve aynı zamanda en kafa karıştırıcı kavramlarından biridir. Bu ikilem, maddenin ve enerjinin, klasik fizikte ayrı tutulması gereken özelliklerinin, kuantum dünyasında bir arada var olmasının temelini oluşturur. Basitçe ifade etmek gerekirse, bir parçacık aynı anda hem dalga gibi davranabilir hem de parçacık gibi. Bu, evrenin nasıl işlediğine dair alışık olmadığımız, ancak deneysel olarak doğrulanmış bir gerçektir.
+
+Klasik Fizik ve Kuantum Fiziği Arasındaki Farklılıklar
+
+Klasik fizikte, nesnelerin kesin konumları ve hızları belirlenebilir. Bir topun nereye düştüğünü ve ne hızla hareket ettiğini önceden tahmin edebiliriz. Bu yaklaşım, nesnelerin davranışlarını kesin olarak tanımlamak için matematiksel modeller kullanır. Ancak, çok küçük ölçekte (atom ve atom altı parçacıklar) bu yaklaşım işe yaramaz hale gelir.
+
+Kuantum fiziği, bu küçük ölçekte farklı bir evrenin işleyişini tanımlar. Burada, nesnelerin kesin özelliklerini belirlemek yerine, olasılıklar ve belirsizlikler ön plandadır. Bir elektron gibi, aynı anda hem dalga hem de parçacık özelliklerini sergileyebilir.
+
+Dalga ve Parçacık Özellikleri
+- Dalga Özellikleri: Bir dalga, enerji ve momentumu bir araya getiren bir enerjinin yayılması biçimidir. Dalgalar, girişim (birbirleriyle etkileşime girerek yoğunlukları artıp azalma) ve yayılma gibi özellikler gösterir.
+- Parçacık Özellikleri: Bir parçacık, belirli bir konum ve momentum değerine sahiptir. Bu, onu bir noktada tanımlamamızı sağlar.
+
+De Broglie'nin Önemi
+
+Bu ikilemi ilk olarak 1923'te Louis de Broglie ortaya koydu. De Broglie, ışığın dalga özelliği ile elektronların parçacık özelliği arasında bir bağlantı kurdu. Ona göre, her parçacık, belirli bir dalga boyuna sahip bir dalga ile ilişkilidir. Bu ilişki, dalga boyu ve momentum arasındaki bir orantı ile tanımlanır:  λ = h/p (λ: dalga boyu, h: Planck sabiti, p: momentum).
+
+Davisson-Germer Deneyi
+
+De Broglie'nin teorisi, Davisson ve Germer tarafından gerçekleştirilen bir deneyle doğrulanmıştır. Bu deneyde, elektronların bir kristal yüzeyi üzerinde yansıması incelenmiş ve De Broglie'nin teorisiyle elde edilen sonuçlar, elektronların dalga özelliği olduğunu açıkça göstermiştir.
+
+Sonuç
+
+Dalga-parçacık ikilemi, evrenin temel yapısını anlamamız için kritik bir kavramdır. Bu ikilem, klasik fizikteki nesnelerin kesin tanımlama yaklaşımının, kuantum dünyasında geçerli olmadığını ve evrenin daha karmaşık ve olasılıksal bir şekilde işlediğini gösterir. Bu ikilem, modern teknolojinin (örneğin, transistörler ve lazerler) temelini oluşturmuş ve bilim dünyasında devrim yaratmıştır.

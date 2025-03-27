@@ -1,0 +1,26 @@
+Ekonomik Açıdan Faiz Getirisi Değerlendirmesi
+
+Faiz getirisi, yatırımcıların bir yatırımdan elde ettiği gelirin, yatırıma yapılan yatırımın maliyetine oranlanmasıyla hesaplanan bir finansal ölçüdür. Basitçe ifade etmek gerekirse, yatırımın getirisini, yatırımın başlangıç maliyetine göre değerlendirerek, yatırımın ne kadar karlı olduğunu gösterir. Bu değerlendirme, yatırım kararlarının alınmasında kritik bir rol oynar ve yatırımcıların risk toleranslarını, hedeflerini ve piyasa koşullarını dikkate alarak yapılır.
+
+Faiz Getirisi Türleri
+
+Faiz getirisi, yatırımın türüne ve yatırım süresine göre farklı şekillerde hesaplanabilir. En yaygın olarak kullanılan üç tür faiz getirisi vardır:
+- Nominal Faiz Getirisi: Bu, yatırımın nominal olarak sunduğu getiridir. Enflasyonun etkisini dikkate almaz ve sadece faiz oranını gösterir.
+- Gerçek Faiz Getirisi: Nominal faiz getirisi ile enflasyon arasındaki farktır. Enflasyonun etkisini düzelterek, yatırımın gerçek değerini gösterir. Gerçek faiz getirisi, yatırımın satın alma gücündeki değişimi yansıtır.
+- Nominal Gerçek Faiz Getirisi: Nominal faiz getirisi ile enflasyonun aynı anda gerçekleştiği durumlarda hesaplanır. Bu durumda, yatırımın getirisini enflasyonun etkisini de hesaba katar.
+
+Faiz Getirisi Hesaplama Yöntemleri
+
+Faiz getirisi hesaplanırken farklı yöntemler kullanılabilir. En yaygın yöntemler şunlardır:
+- Yüzde Fark Yöntemi: Bu yöntem, yatırımın başlangıç fiyatı ile son fiyatı arasındaki farkın, başlangıç fiyatına oranlanmasıyla hesaplanır.
+- Sürdürülebilir Getiri Yöntemi: Bu yöntem, yatırımın başlangıç fiyatı, son fiyatı ve yatırım süresini dikkate alarak, yatırımın yıllık olarak elde ettiği getiriyi hesaplar.
+- Akümüle Getiri Yöntemi: Bu yöntem, yatırımın tüm yatırım süresince elde ettiği toplam getiriyi hesaplar.
+
+Faiz Getirisini Değerlendirirken Dikkat Edilmesi Gerekenler
+
+Faiz getirisi, yatırım kararlarının alınmasında önemli bir faktördür, ancak tek değerlendirme kriteri olmamalıdır. Yatırımcıların aşağıdaki faktörleri de göz önünde bulundurması gerekir:
+- Risk: Yüksek faiz getirisi genellikle yüksek risk anlamına gelir. Yatırımcılar, risk toleranslarını dikkate alarak, uygun risk seviyesindeki yatırımları seçmelidir.
+- Enflasyon: Enflasyon, faiz getirilerinin gerçek değerini etkileyen önemli bir faktördür. Yatırımcılar, enflasyonun beklentilerini dikkate alarak, gerçek faiz getirilerini değerlendirmelidir.
+- Piyasa Koşulları: Piyasa koşulları, faiz oranlarını ve yatırım getirilerini etkileyebilir. Yatırımcılar, piyasa koşullarını yakından takip etmeli ve buna göre yatırım stratejilerini ayarlamalıdır.
+
+Sonuç olarak, faiz getirisi, yatırım kararlarının alınmasında önemli bir araçtır. Ancak, yatırımcıların risk toleranslarını, enflasyon beklentilerini ve piyasa koşullarını da dikkate alarak, kapsamlı bir değerlendirme yapması önemlidir.

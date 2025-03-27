@@ -1,0 +1,27 @@
+Ekonomik Açıdan Kamu Harcamalarının Değerlendirilmesi
+
+Kamu harcamaları, bir devletin ekonomisine yön vermesi, toplumsal ihtiyaçları karşılaması ve ekonomik istikrarı desteklemesi amacıyla yaptığı harcamaları ifade eder. Bu harcamalar, ekonomik açıdan önemli bir yer tutar ve ülke ekonomisinin genel performansını doğrudan etkiler. Bu nedenle, kamu harcamalarının değerlendirilmesi, ekonomik politikaların belirlenmesinde ve uygulanmasında kritik bir öneme sahiptir.
+
+Kamu Harcamalarının Türleri:
+
+Kamu harcamaları, genel olarak üç ana kategoriye ayrılır:
+- Fonksiyonel Harcamalar: Bu harcamalar, devletin temel işlevlerini yerine getirmesi için yapılanlardır. Bunlar arasında eğitim, sağlık, savunma, adalet, ulaşım, enerji, çevre koruma gibi alanlardaki harcamalar yer alır. Eğitim harcamaları, insan sermayesinin geliştirilmesine katkıda bulunurken, sağlık harcamaları halk sağlığını koruma ve geliştirme amacına hizmet eder.
+- Sosyal Güvenlik Harcamaları: Bu harcamalar, yaşlılık, hastalık, işsizlik gibi durumlarda ihtiyaç sahibi vatandaşlara yönelik sosyal yardımlar, emekli maaşları, işsizlik maaşları, engelli maaşları gibi ödemeleri içerir.
+- Altyapı Harcamaları: Yollar, köprüler, barajlar, havaalanları, limanlar, enerji santralleri gibi uzun ömürlü ve geniş kapsamlı yatırımları kapsar. Bu harcamalar, ekonomik büyümeyi teşvik eder, ulaşımı kolaylaştırır ve ticareti destekler.
+
+Ekonomik Etkileri:
+
+Kamu harcamalarının ekonomik etkileri oldukça karmaşıktır ve çeşitli açılardan değerlendirilmelidir:
+- Talep Üzerinden Etki: Kamu harcamaları, toplam talebi artırabilir. Özellikle altyapı harcamaları gibi yatırım harcamaları, doğrudan harcama yoluyla talebi artırır.
+- Üretkenlik Üzerinden Etki: Kamu harcamaları, eğitim, sağlık ve teknoloji gibi alanlara yapılan yatırımlar yoluyla üretkenliği artırabilir.
+- Vergi Politikası ile İlişkisi: Kamu harcamaları, vergi politikası ile doğrudan ilişkilidir. Harcamaların finansmanı için vergi gelirleri toplandığı için, harcamaların seviyesi vergi oranlarını ve vergi gelirlerini etkiler.
+- Bütçe Açığı ve Kamu Borcu: Yüksek kamu harcamaları, bütçe açığına yol açabilir. Bu durum, kamu borcunun artmasına neden olabilir. Yüksek kamu borcu, ekonomik istikrarı tehdit edebilir ve faiz ödemeleri yoluyla kaynakların boşa harcanmasına neden olabilir.
+
+Değerlendirme Yaklaşımları:
+
+Kamu harcamalarının değerlendirilmesinde, çeşitli yaklaşımlar kullanılabilir. Bunlar arasında:
+- Ekonomik Büyüme ile İlişkisi: Kamu harcamalarının, ekonomik büyümeyi ne kadar desteklediği veya engellediği değerlendirilir.
+- Verimlilik Analizi: Kamu harcamalarının, elde edilen sonuçlar açısından ne kadar verimli olduğu analiz edilir.
+- Sosyal Adalet Perspektifi: Kamu harcamalarının, gelir dağılımı ve sosyal eşitsizlik üzerindeki etkileri değerlendirilir.
+
+Sonuç olarak, kamu harcamalarının ekonomik açıdan değerlendirilmesi, sadece harcama miktarlarını değil, aynı zamanda harcamaların yapıldığı alanları, finansman kaynaklarını ve elde edilen sonuçları da dikkate almalıdır. Bu sayede, daha sürdürülebilir ve etkili ekonomik politikalar belirlenebilir.

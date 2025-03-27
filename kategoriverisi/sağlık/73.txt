@@ -1,0 +1,30 @@
+Sağlıklı Bir Yaşam İçin Tüberküloz ve TB Deri Testi Rehberi
+
+Tüberküloz (TB), Mycobacterium tuberculosis adı verilen bir bakteri türünün neden olduğu, özellikle akciğerleri etkileyen bulaşıcı bir hastalıktır. Günümüzde tedavi yöntemlerinin gelişmesiyle birlikte TB’nin tedavi edilebilir bir hastalık olduğu bilinmektedir. Ancak, TB’nin erken teşhisi ve önlenmesi, hem bireysel hem de toplumsal sağlığımız için hayati önem taşımaktadır. Bu rehberde, tüberküloz hakkında temel bilgiler, TB deri testi (Mantoux testi) ve bu testin nasıl uygulandığı, sonuçların yorumlanması ve alınması gereken önlemler hakkında detaylı bilgi bulacaksınız.
+
+Tüberküloz Nedir? Nasıl Yayılır?
+
+Tüberküloz, genellikle solunum yoluyla yayılır. Hastaların öksürük, hapşırma veya konuşması sırasında havaya yayılan küçük damlacıklar oluşturur. Bu damlacıklar, sağlıklı bireyler tarafından solunduğunda TB enfeksiyonu gelişebilir. TB, özellikle bağışıklık sistemi zayıf olan kişilerde, yoğun bakımda yatan hastalar, HIV pozitif bireyler, çocuklar ve yaşlılarda daha sık görülür.
+
+TB Deri Testi (Mantoux Testi) Nedir?
+
+TB deri testi, tüberküloz enfeksiyonunu tespit etmek için yaygın olarak kullanılan bir yöntemdir. Bu test, hastanın koluna küçük bir cilt batması yoluyla yapılır. Testin amacı, vücudun tüberküloz bakterisine karşı geliştirdiği bir bağışıklık tepkisini değerlendirmektir.
+
+Test Nasıl Uygulanır?
+- Test, bir sağlık çalışanı tarafından uygulanır.
+- Hastanın koluna, genellikle soluk renkli bir bölgeye (örneğin, iç kolun iç kısmı) küçük bir batma yapılır.
+- Batma, yaklaşık 2-3 mm derinliğinde ve 10x15 mm boyutlarında olmalıdır.
+- Batma yaptıktan sonra 48-72 saat içinde, ciltte oluşan bir kabarcık (reaksiyon) kontrol edilir.
+
+Sonuçların Yorumlanması
+- Pozitif Reaksiyon: Ciltte 10 mm veya daha büyük bir kabarcık oluşması, tüberküloz enfeksiyonu olduğunu gösterir. Bu durumda, akciğer grafisi ve/veya mantar tahlisi gibi ileri tetkikler ile kesin tanı konulur.
+- Negatif Reaksiyon: Ciltte herhangi bir kabarcık oluşmaması, tüberküloz enfeksiyonu olmadığını gösterir. Ancak, negatif bir sonuç, enfeksiyonun tamamen geçindiğini garanti etmez.
+
+Önemli Notlar
+- TB deri testi, sadece tüberküloz enfeksiyonunu gösterir, hastalığı teşhis etmez.
+- Test sonuçları, hastanın genel sağlık durumu, yaşı ve diğer faktörler gibi çeşitli faktörlere bağlı olarak değişebilir.
+- Eğer TB şüphesi varsa, mutlaka bir sağlık kuruluşuna başvurarak gerekli testleri yaptırmanız önemlidir.
+
+Unutmayın, erken teşhis ve tedavi, tüberkülozun başarılı bir şekilde tedavi edilmesini sağlar ve sağlıklı bir yaşam sürmenize yardımcı olur.
+
+Yasal Uyarı: Bu rehber, bilgilendirme amaçlıdır ve tıbbi tavsiye yerine geçmez. Herhangi bir sağlık sorununuz için mutlaka bir sağlık profesyoneline danışınız.

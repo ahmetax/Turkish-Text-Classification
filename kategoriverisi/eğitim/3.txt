@@ -1,0 +1,20 @@
+Problem Çözme ve Karar Verme Öğreniminde Dönüştürücü Yaklaşımlar
+
+Problem çözme ve karar verme, insan yaşamının her alanında karşılaştığımız temel becerilerdir. Ancak bu becerilerin geliştirilmesi, geleneksel yöntemlerle sınırlı kalmamalıdır. Son yıllarda, “dönüştürücü yaklaşım” adı verilen, öğrencinin aktif rolünü merkeze alan ve problem çözme sürecini daha derinlemesine anlamasına olanak tanıyan yeni öğrenim yöntemleri giderek önem kazanmaktadır. Bu yaklaşımlar, öğrencilerin sadece doğru cevabı bulmak yerine, düşünce süreçlerini, hatalarından ders çıkarmalarını ve yaratıcı çözümler üretmelerini teşvik eder.
+
+Dönüştürücü Yaklaşımın Temel İlkeleri:
+
+Dönüştürücü yaklaşım, öğrencinin problem çözme sürecini aşağıdaki adımları içeren bir döngü içinde ele alır:
+
+1.  Anlama: Öğrencinin problemi tam olarak anlaması ve farklı açılardan değerlendirmesi sağlanır. Bu, problemin ardındaki nedenleri, etkileşimleri ve potansiyel sonuçları anlamayı içerir.
+2.  Yaratım: Öğrenci, problemi çözmek için farklı fikirler ve çözümler üretmeye teşvik edilir. Bu aşamada, geleneksel düşünce kalıplarının dışına çıkarak, yenilikçi ve yaratıcı çözümler üretilmesi hedeflenir.
+3.  Değerlendirme: Üretilen çözümler, farklı kriterler (örneğin, uygulanabilirlik, maliyet, etki) açısından değerlendirilir. Bu aşamada, öğrenci, kendi çözümlerinin güçlü ve zayıf yönlerini analiz eder.
+4.  Değiştirme ve Yineleme: Değerlendirme sonucunda elde edilen bilgiler doğrultusunda, çözümlerde gerekli değişiklikler yapılır ve süreç yinelemeye devam eder. Bu döngü, öğrencinin daha iyi bir çözüm üretmesine ve problem çözme becerilerini geliştirmesine yardımcı olur.
+
+Dönüştürücü Yaklaşımların Uygulanması:
+
+Bu yaklaşım, farklı öğrenim ortamlarında uygulanabilir. Örneğin, matematik derslerinde öğrencilere bir problemi çözmek için farklı yöntemler sunulabilir ve öğrencilerin kendi yöntemlerini geliştirmeleri teşvik edilebilir. Fen bilimlerinde ise öğrencilere bir deney tasarlamaları ve sonuçları yorumlamaları için rehberlik edilebilir. Ayrıca, proje tabanlı öğrenme, problem tabanlı öğrenme ve oyun tabanlı öğrenme gibi yöntemler, dönüştürücü yaklaşımın temelini oluşturur.
+
+Sonuç:
+
+Problem çözme ve karar verme becerilerinin geliştirilmesi, sadece doğru cevabı bulmaktan öte, öğrencinin eleştirel düşünme, yaratıcılık ve problem çözme yeteneklerini geliştirmesini amaçlar. Dönüştürücü yaklaşım, öğrencinin aktif rolünü vurgulayarak, bu hedefe ulaşmada önemli bir araçtır. Öğrencilerin, problem çözme sürecini anlamaları, hatalarından ders çıkarmaları ve yaratıcı çözümler üretmeleri için bu yaklaşımın benimsenmesi, geleceğin başarılı bireylerinin yetişmesinde kritik bir rol oynayacaktır.

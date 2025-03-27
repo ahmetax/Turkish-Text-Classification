@@ -1,0 +1,17 @@
+Bilgisayarın Doğuşu: Bir Teknolojik Yolculuk
+
+Bilgisayar teknolojisi, insanlık tarihinin en hızlı ve etkileyici dönüşümlerinden biridir. Bugün hayatımızın her köşesinde bulunan bu araç, sadece bir cihazdan çok daha fazlasıdır; aynı zamanda bilgiye erişim, iletişim ve yaratıcılığın araçlarını bir araya getiren bir evren gibidir. Ancak bu karmaşık sistemin kökleri, 20. yüzyılın başlarına kadar uzanır.
+
+Hikayemiz, 19. yüzyılın sonlarında, Charles Babbage’ın “Analitik Motoru” projesiyle başlar. Babbage, bu devasa makineyle karmaşık hesaplamaları otomatik hale getirmeyi hedefliyordu. Ancak, bu devasa ve pahalı proje, o dönemdeki teknolojik ve finansal sınırlamalar nedeniyle tamamlanamadı. Yine de, Babbage’ın hayal gücü, gelecekteki bilgisayarların temelini atmıştı.
+
+İkinci Dünya Savaşı sırasında, Almanların “Z3” adlı hesap makinesinin geliştirilmesi, bilgisayar teknolojisinin gelişiminde önemli bir dönüm noktası oldu. Ancak, savaşın sona ermesiyle birlikte, bu teknoloji İngiltere’de unutulmuş gibi görünüyordu.
+
+1940’lar, bilgisayar teknolojisinin gerçek anlamda doğduğu dönem oldu. İkinci Dünya Savaşı’nın ardından, Amerika Birleşik Devletleri, bu alanda hızla öncülüğe geçti. 1946 yılında tamamlanan ENIAC (Electronic Numerical Integrator and Computer), ilk elektronik, programlanabilir bilgisayarlardan biriydi. ENIAC, devasa boyutlarına rağmen, karmaşık matematiksel hesaplamaları çok daha hızlı yapabiliyordu.
+
+ENIAC’tan sonra, IBM gibi şirketler bu alanda önemli adımlar attı. 1951’de tanıtılan IBM 701, ticari amaçlarla üretilen ilk bilgisayarlardan biriydi. Bu dönemde, bilgisayarlar ağırlıklı olarak bilimsel ve mühendislik hesaplamaları için kullanılıyordu.
+
+1960’larda, transistörlerin ve entegre devrelerin geliştirilmesi, bilgisayarların boyutunu ve maliyetini önemli ölçüde düşürdü. Bu gelişmeler, bilgisayarların daha yaygın olarak kullanılmasını sağladı. 1970’lerde, mikroişlemcilerin icadı, bilgisayar teknolojisinin bir sonraki devrimini tetikledi. Mikroişlemciler, bilgisayarların daha küçük, daha hızlı ve daha verimli olmasını sağladı.
+
+Günümüzde, bilgisayarlar, kişisel bilgisayarlar (PC’ler), dizüstü bilgisayarlar, tabletler ve akıllı telefonlar gibi çeşitli formlarda hayatımızın her alanına nüfuz etmiş durumda. Yapay zeka, büyük veri analizi ve bulut bilişim gibi yeni teknolojiler, bilgisayar teknolojisinin geleceğini şekillendiriyor.
+
+Bilgisayar teknolojisinin hikayesi, insan zekasının ve yaratıcılığının bir ürünüdür. Bu hikaye, sürekli bir değişim ve gelişim sürecidir ve gelecekte de insanlığın hayatını daha da etkilemeye devam edecektir.

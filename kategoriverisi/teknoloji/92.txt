@@ -1,0 +1,21 @@
+TCP/IP Protokolünün Gelişimi: Dünyayı Nasıl Değiştirdi?
+
+İnternetin temelini oluşturan ve günümüz dijital dünyasının işleyişini şekillendiren TCP/IP protokolü, aslında 1970’lerde başlayan bir süreçle ortaya çıkmıştır. Bu protokol, bilgisayarların birbirleriyle güvenli ve verimli bir şekilde iletişim kurmasını sağlayarak, internetin yaygınlaşmasına ve günümüzdeki dijital hayatımızın şekillenmesine doğrudan katkıda bulunmuştur.
+
+İlk Adımlar ve ARPANET’in Rolü:
+
+TCP/IP’nin kökleri, 1969’da ABD Ordası tarafından kurulan ARPANET’e dayanır. ARPANET, Amerika Birleşik Devletleri’nde ilk veri iletişim ağıydı ve amacının, askeri araştırmacılara bilgi paylaşımı imkanı sunmaktı. Ancak, ARPANET’in karmaşık yapısı ve farklı bilgisayar sistemleri arasındaki uyumsuzluklar, veri iletişimi konusunda sorunlara yol açıyordu.
+
+TCP ve IP’nin Doğuşu:
+
+1974 yılında Vinton Cerf ve Robert Kahn tarafından geliştirilen TCP/IP protokolü, bu sorunlara bir çözüm sunmuştur. TCP (Transmission Control Protocol), verilerin güvenilir bir şekilde paketlenmesini, gönderilmesini ve alıcı tarafından doğru bir şekilde toplanmasını sağlar. IP (Internet Protocol), bu paketlerin ağ üzerinden doğru hedeflerine ulaşmasını sağlayan adresleme sistemini tanımlar. Bu iki protokolün birlikte kullanımı, internetin temelini oluşturmuştur.
+
+Gelişim ve Yaygınlaşma:
+
+TCP/IP protokolü, 1983 yılında resmi olarak internet standardı haline geldi ve ARPANET’in yerini alarak internetin yaygınlaşmasına zemin hazırladı. 1990’larda World Wide Web’in (WWW) ortaya çıkışı, TCP/IP protokolünün önemini daha da artırmıştır. WWW, kullanıcı dostu arayüzü ve bağlantılı web sayfaları sayesinde internet kullanımını büyük ölçüde kolaylaştırmış ve internetin bireysel kullanımına açılmıştır.
+
+Günümüzdeki Önemi ve Etkileri:
+
+Günümüzde TCP/IP protokolü, internetin her alanında kullanılmaktadır. E-posta, web siteleri, online alışveriş, video konferans, sosyal medya ve hatta akıllı ev cihazları gibi birçok dijital hizmet, TCP/IP protokolüne dayanmaktadır. Bu protokolün gelişimi, hayatımızın her alanında büyük bir kolaylık sağlamış, iletişimi hızlandırmış ve bilgiye erişimi kolaylaştırmıştır.
+
+Sonuç olarak, TCP/IP protokolünün gelişimi, sadece bir teknolojik ilerleme değil, aynı zamanda insanlığın iletişim ve bilgi paylaşımındaki dönüşümünü temsil etmektedir. Dünyayı birbirine bağlayan bu protokol, dijital çağın temelini oluşturarak, hayatımızı derinden etkileyen ve sürekli gelişmeye devam eden bir sistemdir.

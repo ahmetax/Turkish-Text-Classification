@@ -1,0 +1,17 @@
+İşletim Sistemlerinin Evrimi: Dünyayı Nasıl Değiştirdi?
+
+İşletim sistemleri (İS), bilgisayarların ve diğer dijital cihazların temelini oluşturan yazılımlardır. Günümüzdeki hayatımızın her alanında, cep telefonlarından akıllı ev aletlerine, uçaklardaki kontrol sistemlerinden fabrikalardaki otomasyonlara kadar, neredeyse her cihazın çalışmasını sağlayan bu sistemlerin evrimi, dünyayı kökten değiştirdi.
+
+İşletim sistemlerinin hikayesi, 1950’lerde bilgisayarların devasa, pahalı ve kullanımı çok zor olduğu dönemle başlar. O dönemde, bilgisayarların doğrudan makine dilinde programlanması gerekiyordu. Bu, uzmanlık gerektiren ve hatalara açık bir süreçti. 1960’larda, MIT’de John Kemeny ve Dennis Ritchie tarafından geliştirilen UNIX işletim sistemi, bu soruna bir çözüm suntu. UNIX, komut satırı arayüzü sayesinde kullanıcıların bilgisayarla daha kolay etkileşim kurmasını sağladı ve daha modüler bir yapıya sahipti.
+
+1981 yılında, Bill Gates ve Paul Allen tarafından kurulan Microsoft, MS-DOS işletim sistemini piyasaya sürdü. MS-DOS, kişisel bilgisayarların (PC’ler) yaygınlaşmasında kilit rol oynamıştı. Ancak, MS-DOS’un grafik arayüzü ve kullanıcı dostu özellikleri sınıklıydı.
+
+1995 yılında Microsoft, Windows 95’i piyasaya sürerek, kullanıcı arayüzünde devrim yarattı. Windows, grafiksel kullanıcı arayüzü (GUI) sayesinde, bilgisayar kullanımını herkes için erişilebilir hale getirdi. Bu, bilgisayar kullanımının yaygınlaşmasında ve evlere, işyerlerine yayılmasında önemli bir etken oldu.
+
+Günümüzde, işletim sistemleri daha da gelişti. macOS, Apple cihazlarında kullanılan, kullanıcı dostu arayüzü ve güçlü özellikleriyle tanınırken, Linux, açık kaynaklı yapısıyla sunucularda, gömülü sistemlerde ve hatta akıllı telefonlarda yaygın olarak kullanılmaktadır. Android ve iOS ise akıllı telefon ve tablet pazarının dominant işletim sistemleridir.
+
+İşletim sistemlerinin evrimi, sadece bilgisayar kullanımını kolaylaştırmakla kalmayıp, aynı zamanda internetin ve dijital teknolojilerin gelişimini de şekillendirmiştir. İşletim sistemleri, internet protokollerinin (IP) uygulanmasını sağlarken, web tarayıcılarının ve diğer internet uygulamalarının çalışmasını mümkün kılmıştır.
+
+Günümüzde, bulut bilişim, yapay zeka ve nesnelerin interneti (IoT) gibi yeni teknolojilerin yükselişiyle birlikte, işletim sistemlerinin rolü de daha da önem kazanmaktadır. İşletim sistemleri, bu yeni teknolojilerin temelini oluştururken, cihazlar arasındaki iletişimi ve veri yönetimini sağlayacaktır.
+
+Sonuç olarak, işletim sistemlerinin evrimi, sadece bir yazılım geliştirme sürecinden öte, insanlık tarihinin en önemli teknolojik gelişmelerinden biridir. Dünyayı değiştiren bu evrim, hayatımızı kolaylaştırmanın yanı sıra, yeni olanaklar ve zorluklar yaratmıştır. Gelecekte, işletim sistemlerinin rolü, dijital dünyayı daha da şekillendirecektir.

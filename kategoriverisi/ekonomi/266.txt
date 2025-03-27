@@ -1,0 +1,23 @@
+Gümrük Tarifeleri Ekonomisinin Analizi
+
+Gümrük tarifeleri, bir ülkenin sınırında ithal edilen mallar için uyguladığı vergi türüdür. Bu vergiler, genellikle oran yüzdesini veya sabit bir meblağı ifade eder ve ithalatçıların malları ülkeye getirme maliyetini artırır. Gümrük tarifelerinin ekonomideki etkileri karmaşık ve çok yönlü olup, hem savunucular hem de eleştirmenler tarafından farklı açılardan değerlendirilmektedir.
+
+Gümrük Tarifelerinin Savunuculuk Argümanları:
+- Millileştirme: Gümrük tarifeleri, yerli sanayiyi yabancı rekabetten koruyarak yerli üreticilerin daha rekabetçi koşullarda faaliyet göstermesini sağlayabilir. Bu durum, yerli sanayinin büyümesini teşvik eder ve istihdam yaratabilir.
+- Savunma Harcamaları: Gümrük tarifeleri, hükümetin savunma harcamaları gibi kritik alanlara kaynak ayırmasına yardımcı olabilir.
+- İstihdamın Korunması: Yerli sanayinin korunması, özellikle iş gücünün yoğun olduğu sektörlerde iş kayıplarının önlenmesine katkıda bulunabilir.
+- Eşitsizliklerin Azaltılması: Gümrük tarifeleri, yerli sanayinin gelişmesini sağlayarak gelir dağılımında daha fazla denge yaratabilir.
+
+Gümrük Tarifelerine Karşı Eleştirel Argümanlar:
+- Tüketici Dezavantajı: Gümrük tarifeleri, ithal malların fiyatlarını artırarak tüketicilerin daha yüksek fiyatlar ödemesine neden olur. Bu durum, tüketicilerin satın alma gücünü azaltır.
+- Verimliliğin Azalması: Yabancı rekabetin engellenmesi, yerli sanayinin verimliliğini düşürebilir ve yenilik yapma motivasyonunu azaltabilir.
+- Ticaret Savaşları: Gümrük tarifelerinin kullanımı, diğer ülkelerle ticaret savaşlarına yol açabilir ve küresel ticareti olumsuz etkileyebilir.
+- Vergi Gelir Kaybı: Gümrük tarifeleri, hükümetin vergi gelirlerini azaltır.
+
+Ekonomik Modeller ve Sonuçlar:
+
+Ekonomik modeller, gümrük tarifelerinin etkilerini değerlendirmek için çeşitli araçlar sunar. Örneğin, Ricardian model, ülkeler arasındaki farklılıkların (örneğin, doğal kaynaklar, teknoloji, yönetim) gümrük tarifelerinin etkilerini belirlemede önemli rol oynar. Ancak, bu modellerin karmaşıklığı ve varsayımları nedeniyle sonuçlar her zaman kesin olmayabilir.
+
+Günümüzde, küreselleşme ve serbest ticaret anlaşmaları nedeniyle gümrük tarifelerinin kullanımı azalmıştır. Ancak, bazı ülkeler hala belirli sektörleri korumak veya stratejik çıkarları savunmak amacıyla gümrük tarifelerini uygulamaya devam etmektedir.
+
+Sonuç olarak, gümrük tarifelerinin ekonomideki etkileri, uygulandığı ülke ve sektör, uygulanan tarifelerin miktarı ve diğer faktörlere bağlı olarak değişiklik gösterir. Gümrük tarifelerinin etkilerini değerlendirirken, hem savunuculuk hem de eleştirel argümanları dikkate almak ve ekonomik modellerin sonuçlarını dikkatli bir şekilde yorumlamak önemlidir.  Uygulanan gümrük tarifelerinin uzun vadeli etkilerini değerlendirmek için sürekli analiz ve değerlendirme gereklidir.

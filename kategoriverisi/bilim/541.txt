@@ -1,0 +1,14 @@
+Nanomedicine Journal: Bilimsel Araştırmanın Açık Kapısı
+
+Nanomedicine Journal, nanoteknoloji ve nanomalikülün sağlık alanındaki uygulamaları üzerine odaklanan, hızla gelişen bir açık erişimli bilimsel dergidir. Dünyanın dört bir yanından araştırmacıların yayınladığı güncel araştırmaların özetlerini ve tam metin makalelerini bir araya getirerek, bu alandaki bilgi akışını hızlandırmayı ve yenilikçiliği teşvik etmeyi amaçlar. Derginin açık erişimli yapısı, tüm bilim insanları, öğrenciler ve sağlık profesyonellerinin, herhangi bir ücret ödemeden, son gelişmelerden haberdar olmasını sağlar.
+
+Nanomedicine Journal’un Bilimsel Temelleri
+
+Nanomedicine Journal’un başarısının altında yatan temel bilimsel prensipler, nanoteknolojinin sağlık alanındaki potansiyelini ortaya koyar. Bu prensipler, aşağıdaki ana başlıklar altında toplanabilir:
+- Nanoyapılar ve Özellikler: Nanomedicine, molekülleri ve malzemeleri atomik ve moleküler ölçekte manipüle etmeyi içerir. Bu sayede, ilaçların hedeflenen dokulara ulaştırılması, hastalıkların erken teşhisi ve tedavi edilmesi için yeni yöntemler geliştirilebilir. Nanomaliküller, örneğin, ilaçları doğrudan kanser hücrelerine ulaştırarak, sağlıklı hücrelere zarar verme olasılığını azaltır.
+- Hedefli İlaç Taşıma (Targeted Drug Delivery): Nanomaliküller, belirli hedeflere yönlendirilebilirler. Bu, ilaçların sadece hastalığın etkilediği bölgeye odaklanmasını sağlar. Bu sayede, tedavi etkinliği artar ve yan etkiler azalır. Örneğin, nanomaliküller, kemoterapi ilaçlarını doğrudan tümör hücrelerine ulaştırarak, sağlıklı hücrelere zarar verme riskini azaltır.
+- Biyouyusal (Bioresponsive) Materyaller: Nanomaliküller, çevresel değişikliklere (örneğin, pH, sıcaklık, ışık) tepki verecek şekilde tasarlanabilirler. Bu, ilaçların salınımını kontrol etmeyi ve tedavi sürecini optimize etmeyi sağlar. Örneğin, bir nanomalikül, sadece belirli bir pH seviyesinde ilaç salınımını başlatabilir.
+- Nanosensorlar ve Tanısal Araçlar: Nanomaliküller, hastalıkların erken teşhisinde kullanılan nanosensorlar olarak da kullanılabilirler. Bu nanosensorlar, vücuttaki biyobelirteçleri (biomarkers) tespit ederek, hastalıkların erken evrelerinde teşhis edilmesini sağlar.
+- Tıp Mühendisliği ve Biyomateryaller: Nanomedicine, tıp mühendisliği ve biyomateryaller alanlarıyla da yakın ilişkiler içerir. Bu, yeni tıbbi cihazların ve implantların geliştirilmesini sağlar. Örneğin, nanomaliküller, kemik onarımında veya doku mühendisliğinde kullanılabilir.
+
+Nanomedicine Journal, bu bilimsel prensipleri ve uygulamaları yansıtan, sürekli güncellenen bir kaynak sunar. Dergi, nanoteknolojinin sağlık alanındaki geleceğine dair önemli bir pencere görevi görerek, bu alandaki araştırmaların ilerlemesine katkıda bulunur.  Açık erişimli yapısı sayesinde, bilimsel bilgiye erişimin kolaylaştırılması, inovasyonu teşvik eder ve sağlık alanında yeni çözümlerin geliştirilmesine olanak tanır.

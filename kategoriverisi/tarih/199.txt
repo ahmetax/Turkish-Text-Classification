@@ -1,0 +1,23 @@
+İnternetin Tarihi: Bir Devrimin Doğuşu ve Evrimi
+
+İnternet, günümüz dünyasının en temel ve etkili araçlarından biri haline gelmiş, hayatımızın her alanına nüfuz etmiş bir devrimdir. Ancak bu devrimin kökleri, 20. yüzyılın ortalarına kadar uzanır ve bilimsel araştırmalardan başlayıp, askeri ihtiyaçlar ve sivil kullanımın birleşimiyle şekillenmiştir. İnternetin tarihi, sadece teknolojik bir gelişimi değil, aynı zamanda bilgiye erişim, iletişim ve kültür paylaşımında köklü değişiklikleri temsil eder.
+
+İlk Adımlar: ARPANET ve Paket Veri İletişimi
+
+İnternetin temelleri, 1960’larda Amerika Birleşik Devletleri’nde, özellikle de Pentagon’da yürütülen ARPANET (Advanced Research Projects Agency Network) projesiyle atılmıştır. Soğuk Savaş döneminde, merkezi bir sistemin tek bir saldırıya kurban olması durumunda, bilgilerin dağıtık bir ağ üzerinden iletilmesini sağlamak amacıyla geliştirilen ARPANET, paket veri iletişimi kavramını ortaya koymuştur. Bu yöntem, veriyi küçük parçalara (paket) bölerek, bu paketleri farklı yollarla gönderip, alıcıda tekrar birleştirerek, ağdaki kesintilerden etkilenmeden iletişimi sağlamayı amaçlar.
+
+TCP/IP ve Ajanın Doğuşu
+
+1970’lerde, Robert Kahn ve Vinton Cerf tarafından geliştirilen TCP/IP (Transmission Control Protocol/Internet Protocol) protokolleri, ARPANET’in temelini oluşturarak, farklı ağların birbirleriyle iletişim kurmasını sağlamıştır. TCP/IP, internetin evrensel bir dil haline gelerek, farklı donanım ve yazılımlara sahip cihazların birbirleriyle iletişim kurmasını mümkün kılmıştır.
+
+World Wide Web’in Yükselişi
+
+1989’da Tim Berners-Lee tarafından CERN’de geliştirilen World Wide Web (WWW), internetin kullanıcı dostu bir arayüzü sunarak, internetin yaygınlaşmasında kritik bir rol oynamıştır. HTML (HyperText Markup Language), URL (Uniform Resource Locator) ve HTTP (HyperText Transfer Protocol) gibi teknolojiler, web sayfalarını oluşturmak, erişmek ve paylaşmak için gerekli araçları sunarak, internetin sivil kullanımına kapı açmıştır.
+
+İnternetin Yaygınlaşması ve Geleceği
+
+1990’larda internet, akademik ve araştırma kurumlarının ötesine geçerek, bireysel kullanıcılar ve işletmeler için de erişilebilir hale gelmiştir. Bu dönemde, e-posta, web siteleri ve online alışveriş gibi uygulamalar yaygınlaşmış, internetin hayatımızın her alanına entegre olmasına yol açmıştır.
+
+Günümüzde internet, mobil teknolojiler, sosyal medya ve bulut bilişim gibi yeniliklerle sürekli olarak gelişmektedir. Yapay zeka, büyük veri ve nesnelerin interneti (IoT) gibi teknolojiler, internetin geleceğini şekillendirerek, daha akıllı, daha bağlantılı ve daha kişiselleştirilmiş bir dünya yaratma potansiyeli sunmaktadır.
+
+İnternetin tarihi, sadece bir teknolojinin gelişimi değil, aynı zamanda insanlığın bilgiye erişim, iletişim ve kültür paylaşımındaki evrimini de yansıtmaktadır. Bu devrimin, gelecekte de hayatımızı derinden etkineceği ve yeni fırsatlar sunacağı kesindir.

@@ -1,0 +1,13 @@
+Rasyonalizm'in Felsefi Temelleri: Akıl ve Gerçeğin Arayışı
+
+Rasyonalizm, 17. yüzyılın başlarında Avrupa felsefesini derinden etkileyen ve özellikle Descartes, Spinoza ve Leibniz gibi düşünürlerin eserlerinde yoğunlaşan bir düşünce akımıdır. Rasyonalizm, deneyimsel bilgiye (empirizm) karşı çıkarak, bilginin kaynağının insan aklında olduğunu ve gerçekliğin anlaşılmasının da aklın gücüyle mümkün olduğunu savunur. Bu akım, bilginin kaynağını duyular deneyiminden ziyade, aklın doğuştan sahip olduğu kavramlar ve ilkelerden arar.
+
+Rasyonalizmin temelini oluşturan bazı önemli fikirler şunlardır:
+- Doğuştan Bilgi: Rasyonalist düşünürler, insan aklının doğuştan bazı bilgi ve kavramlara sahip olduğunu savunurlar. Bu, deneyim yoluyla öğrenmeden önce aklın temel gerçekleri kavrayabileceği anlamına gelir. Descartes’ın “Düşünüyorum, o halde varım” (Cogito, ergo sum) ifadesi, bu doğuştan bilgiye dair en bilinen örnektir. Bu ifade, kendi varlığının kesin bir kanıtını, düşünme eyleminin kendisinde bulur.
+- Aklın Gücü: Rasyonalistler, aklın, duyulara göre daha güvenilir bir bilgi kaynağı olduğunu savunurlar. Duyular, yanılgıya ve hatalara açık olduğundan, gerçekliğin doğru ve kesin bir tasvirini sağlayamazlar. Aksine, aklın, mantık ve akıl yürütme yoluyla, duyusal deneyimlerden bağımsız olarak, evrenin temel ilkelerini ve yapısını anlamamızı sağladığı düşünülür.
+- Evrensel İlkeler: Rasyonalistler, evrenin temel yapısının, aklın keşfiyle belirlenebilir olduğunu savunurlar. Bu, evrenin belirli evrensel ilkelerle düzenlendiğini ve bu ilkelerin, her yerde ve her zaman geçerli olduğunu varsayar. Descartes, matematiksel ilkelerin (örneğin, bir çizginin iki yönü olması) evrenin temel yapısını yansıttığını düşünür.
+- Matematiksel Model: Rasyonalistler, evrenin matematiksel bir modelle temsil edilebileceğini savunurlar. Matematik, kesinlik, tutarlılık ve evrensel geçerlilik gibi özellikleriyle, aklın ve bilginin ideal bir aracı olarak görülür.
+
+Rasyonalizmin, özellikle Descartes’ın eserleri, modern felsefenin gelişiminde önemli bir dönüm noktasıdır. Descartes’ın, matematiksel yöntemleri felsefeye dahil etmesi, bilimsel düşüncenin gelişimine katkıda bulunmuştur. Spinoza, rasyonalizmin bu yönünü daha da ileriye taşımış, evreni bir bütün olarak, akılcı bir şekilde anlamaya çalışmıştır. Leibniz ise, rasyonalizmin, evrenin her bir parçası için farklı ve özgün bir "monad" (bağımsız varlık) kavramını ortaya koyarak, rasyonalist düşünceyi daha da karmaşık hale getirmiştir.
+
+Sonuç olarak, rasyonalizm, bilginin kaynağını insan aklında arayan ve evrenin anlaşılmasının da aklın gücüyle mümkün olduğunu savunan bir felsefi akımdır. Bu akım, modern felsefenin gelişiminde önemli bir rol oynamış ve bilimsel düşüncenin gelişimine katkıda bulunmuştur.

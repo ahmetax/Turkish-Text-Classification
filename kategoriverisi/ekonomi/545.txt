@@ -1,0 +1,19 @@
+Çevre Ekonomisi: Ekonominin Analizi
+
+Çevre ekonomisi, geleneksel ekonomi anlayışının ötesine geçerek, ekonomik faaliyetlerin doğal kaynaklar üzerindeki etkilerini ve doğanın ekonomik sistemin bir parçası olarak nasıl değerlendirilmesi gerektiğini inceleyen bir disiplindir. Sadece ekonomik büyüme hedefleriyle değil, aynı zamanda çevresel sürdürülebilirlik ve insan refahı arasındaki dengeyi de gözeten bir yaklaşımı temsil eder.
+
+Geleneksel ekonomi, genellikle doğal kaynakları sınırsız ve yenilenebilir olarak kabul ederdi. Ancak, son yıllarda artan çevresel sorunlar (iklim değişikliği, biyoçeşitlilik kaybı, kirlilik vb.) ve kaynakların sınırlı olması, çevre ekonomisinin önemini daha da belirgin hale getirmiştir. Çevre ekonomisi, bu sorunların ekonomik sonuçlarını analiz ederek, ekonomik kararların çevresel etkilerini dikkate almayı amaçlar.
+
+Çevre Ekonomisinin Temel Kavramları ve Yaklaşımları:
+- Ekosistem Hizmetleri: Çevre ekonomisi, doğadan elde edilen faydaları (su, hava, toprak, biyoçeşitlilik, iklim düzenlemesi vb.) “ekosistem hizmetleri” olarak tanımlar. Bu hizmetlerin ekonomik değerini belirlemek, doğanın ekonomik sistemde ne kadar önemli olduğunu gösterir.
+- Kaynak Ekonomisi: Doğal kaynakların (su, orman, maden vb.) sınırlı olduğunu ve bu kaynakların sürdürülebilir bir şekilde yönetilmesi gerektiğini vurgular.
+- Piyasa Başarısızlıkları: Çevresel sorunların çoğu, piyasa mekanizmalarının yetersizliği veya yanlış sinyallerden kaynaklanır. Örneğin, bir nehrin kirliliği, kirleten firmaların maliyetlerinin tam olarak yansıtılmaması nedeniyle gerçekleşebilir. Çevre ekonomisi, bu piyasa başarısızlıklarını düzeltmek için çeşitli politikalar önermeye çalışır.
+- Sürdürülebilir Kalkınma: Çevre ekonomisi, ekonomik büyümeyi çevresel sınırlamalarla uyumlu hale getirmeyi amaçlayan “sürdürülebilir kalkınma” kavramını temel alır. Bu, gelecek nesillerin ihtiyaçlarını karşılama yeteneğini tehlikeye atmadan, bugünün ihtiyaçlarını karşılamayı hedefler.
+
+Çevre Ekonomisinin Uygulama Alanları:
+- Politika Analizi: Çevre ekonomisi, çevresel politikaların (vergi, sübvansiyon, emisyon ticaret sistemi vb.) etkinliğini değerlendirmek için kullanılır.
+- Kaynak Değerlendirmesi: Doğal kaynakların ekonomik değerini belirlemek ve bu kaynakların sürdürülebilir kullanımını sağlamak için kullanılır.
+- Çevresel Risk Değerlendirmesi: Çevresel projelerin (baraj, maden ocağı vb.) potansiyel çevresel etkilerini analiz etmek ve riskleri azaltmak için kullanılır.
+- Sürdürülebilir İş Modelleri: Şirketlerin çevresel etkilerini azaltan ve sürdürülebilir bir şekilde faaliyet gösteren iş modelleri geliştirmesine yardımcı olur.
+
+Sonuç olarak, çevre ekonomisi, ekonomik kararların çevresel sonuçlarını dikkate alarak, daha sürdürülebilir ve adil bir ekonomik sistemin oluşturulmasına katkıda bulunur. Geleceğe yönelik ekonomik kalkınmanın, doğal kaynakların korunması ve çevresel sürdürülebilirlik ilkeleriyle uyumlu olması gerektiğinin altını çizer.

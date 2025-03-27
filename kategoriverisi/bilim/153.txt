@@ -1,0 +1,17 @@
+Fizik Arkasındaki Bilimsel Prensipler: Evrenin Temel Kuralları
+
+Fizik, evrenin ve onun içindeki tüm olayların temel prensiplerini anlamaya çalışan bilim dalıdır. Basitçe ifade etmek gerekirse, fizik, “şeyler neden böyle davranıyor?” sorusuna cevap arayan bir disiplindir. Bu cevaplar, evrenin işleyişini anlamamızı sağlayan matematiksel ve kavramsal modeller aracılığıyla ifade edilir. Fizik, sadece laboratuvarlarda yapılan deneylerle sınırlı kalmaz; aynı zamanda gözlem, deney ve teorik düşünce yoluyla evrenin derinliklerine uzanır.
+
+Fiziksel prensiplerin temelini oluşturan bazı önemli kavramları ve teorileri inceleyelim:
+
+1. Mekanik: Klasik mekanik, Newton'un hareket yasaları üzerine kuruludur. Bu yasalar, nesnelerin hareketi ve kuvvetler arasındaki ilişkiyi tanımlar. Bir nesnenin hareketini etkileyen kuvvetler (kütle, yerçekimi, sürtünme vb.) ve bu kuvvetlerin sonuçları (hızlanma, ivme vb.) klasik mekanik tarafından açıklanır. Bu prensipler, günlük hayatta karşılaştığımız hareketleri anlamamıza yardımcı olur.
+
+2. Elektrodinamik: Elektrodinamik, elektrik ve manyetizmanın incelenmesini kapsar. Maxwell denklemleri, elektrik ve manyetizmanın birbiriyle ilişkili olduğunu ve ışığın elektrik ve manyetik alanların bir dalgası olduğunu gösterir. Bu teori, modern teknolojinin temelini oluşturur.
+
+3. Termodinamik: Termodinamik, ısı, sıcaklık ve enerji arasındaki ilişkiyi inceler. Termodinamik yasaları, enerji dönüşümlerinin temel kurallarını belirler. Özellikle, ilk ve ikinci yasalar, enerji korunumu ve entropi kavramlarını ortaya koyar.
+
+4. Kuantum Mekaniği: Kuantum mekaniği, atom altı parçacıkların (elektronlar, fotonlar vb.) davranışlarını inceler. Bu teori, klasik mekaniğin açıklayamadığı olayları açıklar. Örneğin, bir elektronun aynı anda birden fazla yerde bulunabilmesi (süperpozisyon) veya iki parçacığın birbirleriyle anında etkileşime girmesi (kuantum dolanıklığı) gibi kavramlar kuantum mekaniği tarafından açıklanır.
+
+5. Genel Görelilik: Albert Einstein'ın geliştirdiği genel görelilik teorisi, evrenin yapısını ve zamanın akışını yerçekimi bağlamında açıklar. Bu teori, yerçekimini, uzay ve zamanın bükülmesi olarak tanımlar. Genel görelilik, kara delikler, evrenin genişlemesi ve GPS sistemlerinin çalışması gibi olayların anlaşılmasında kritik bir rol oynar.
+
+Fizik, sürekli gelişen ve değişen bir disiplindir. Yeni keşifler ve teoriler, evrenin daha derinlemesine anlaşılmamıza yardımcı olur. Fizik, sadece bilimsel bir çalışma alanı olmakla kalmaz, aynı zamanda teknolojik ilerlemenin de temelini oluşturur.  Fiziksel prensipleri anlamak, evrenin nasıl işlediğini ve bizleri nasıl etkilediğini anlamamızı sağlayarak, daha bilinçli ve sorumlu bir toplum inşa etmemize katkıda bulunur.

@@ -1,0 +1,26 @@
+Kişisel Bilgisayarın Doğuşu ve Teknolojideki Gelecek Yenilikler
+
+Kişisel bilgisayar, 20. yüzyılın sonlarında ve 21. yüzyılın başlarında ortaya çıkan, bireylerin kullanımına yönelik, programlanabilir bir elektronik cihazdır. Bu cihazın doğuşu, bilgisayar teknolojisindeki devrimsel bir değişimle ve geleceğin teknolojik yeniliklerine zemin hazırlayarak, hayatımızın her alanına nüfuz etmiştir.
+
+İlk Adımlar ve Temellerin Atılması
+
+Bilgisayarın kişisel hale gelmesi, 1970'lerdeki gelişmelerle mümkün olmuştur. Özellikle mikroişlemcilerin (CPU) geliştirilmesi, bilgisayarın boyutunu küçültmüş, maliyetini düşürmüş ve kullanımını yaygınlaştırmıştır. Intel tarafından 1971 yılında piyasaya sürülen 4004 mikroişlemci, ilk adım olarak kabul edilir. Bu işlemci, basit hesaplama görevlerini yerine getirebilen ilk ticari mikroişlemciydi.
+
+Apple, IBM ve PC'nin Doğuşu
+
+1970'lerin sonlarında Apple Computer, Steve Jobs ve Steve Wozniak tarafından kuruldu. Apple II, 1977'de piyasaya sürülen ilk başarılı kişisel bilgisayarlardan biri oldu. Bu bilgisayar, kullanıcı dostu arayüzü ve grafik işlem yeteneğiyle dikkat çekti.
+
+1981'de IBM PC, kişisel bilgisayar pazarında devrim yarattı. IBM'in deneyimi ve gücü, PC'nin yaygınlaşmasında önemli bir rol oynadı. IBM PC'nin mimarisi, diğer üreticiler tarafından taklit edildi ve "PC" standardı oluştu.
+
+Donanım ve Yazılımın Evrimi
+
+Kişisel bilgisayarların gelişimi, donanım ve yazılımın sürekli evrimiyle şekillenmiştir. Bellek kapasiteleri, işlem hızları ve grafik kartları sürekli olarak iyileştirilmiş, kullanıcı deneyimi önemli ölçüde artırılmıştır. Aynı zamanda, işletim sistemleri (Windows, macOS, Linux) ve uygulamalar (işletim programları, ofis uygulamaları, oyunlar) da gelişerek, bilgisayarın kullanım alanlarını genişletmiştir.
+
+Günümüz ve Gelecek Yenilikler
+
+Günümüzde kişisel bilgisayarlar, masaüstü bilgisayarlar, dizüstü bilgisayarlar, tabletler ve akıllı telefonlar şeklinde farklı form faktörlerinde karşımıza çıkmaktadır. Bulut bilişim, yapay zeka, nesnelerin interneti (IoT) gibi teknolojiler, kişisel bilgisayarların geleceğini şekillendirmektedir.
+- Yapay Zeka (AI): Yapay zeka, kişisel bilgisayarların daha akıllı ve etkileşimli olmasını sağlamaktadır. Sesli asistanlar, otomatik çeviri, öneri sistemleri gibi uygulamalar, yapay zekanın gücünü kullanmaktadır.
+- Bulut Bilişim: Verilerin ve uygulamaların bulut üzerinde depolanması ve yönetilmesi, kişisel bilgisayarların performansını artırmakta ve mobiliteyi desteklemektedir.
+- Nesnelerin İnterneti (IoT): Kişisel bilgisayarlar, IoT cihazlarıyla entegre olarak ev otomasyonu, akıllı şehirler ve diğer alanlarda kullanılmaktadır.
+
+Kişisel bilgisayarın doğuşu, teknoloji dünyasında bir dönüm noktasıdır. Bu cihaz, hayatımızı kolaylaştıran, bilgiye erişimimizi sağlayan ve yeni olanaklar sunan bir araçtır. Gelecekte, yapay zeka ve diğer yenilikçi teknolojilerle birlikte, kişisel bilgisayarların rolü ve önemi daha da artacaktır.

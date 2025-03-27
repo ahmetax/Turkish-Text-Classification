@@ -1,0 +1,19 @@
+Performans İstatistikleri: Sporun Tarihi ve Gelişimi
+
+Spor, insanlık tarihi kadar eski olan, bireysel ve toplumsal yaşamın ayrılmaz bir parçasıdır. Başlangıçta sadece bir eğlence aracı olarak görülen spor, zamanla rekabet, beceri geliştirme ve sağlık açısından faydalarla da iç içe geçmiş, karmaşık bir disiplin haline gelmiştir. Performans istatistikleri ise sporun bu gelişim sürecinde kritik bir rol oynamıştır.
+
+İlk Başlangıçlar ve Gözlemlere Dayalı Analizler
+
+Sporun kökleri, antik Yunanistan’a kadar uzanır. Olimpiyat Oyunları gibi etkinlikler, atletlerin performansını değerlendirmek için basit ölçütler kullanılmıştır. Örneğin, atın koşu mesafesi, bir ağırlığı ne kadar yükseğe kaldırabildiği veya bir topu ne kadar isabetli atabildiği gibi ölçümler, sporcuların yeteneklerini belirlemek için temel oluşturmuştur. Bu dönemde istatistikler, gözlemlere dayalı, doğrudan ölçümlerle sınırlıydı ve matematiksel bir temele dayanmıyordu.
+
+19. ve 20. Yüzyıl: Matematiksel Yaklaşımların Doğuşu
+
+Spor istatistiklerinin modern temelleri, 19. yüzyılın sonlarında ve 20. yüzyılın başlarında, sporun daha bilimsel bir yaklaşımla ele alınmasıyla ortaya çıkmıştır. Özellikle futbol ve beyzbol gibi popüler sporlar, performansın daha hassas bir şekilde ölçülmesini gerektiriyordu. 1900’lerde, oyuncuların pas isabet oranı, şut mesafesi, top tutma yüzdesi gibi veriler kaydedilmeye başlanmış ve bu veriler, oyuncuların performansını değerlendirmek için kullanılmıştır. Bu dönemde, istatistikler sadece gözlemlemekle kalmayıp, matematiksel analizlere de yer vermeye başlamıştır.
+
+20. ve 21. Yüzyıl: Teknolojinin Etkisi ve Veri Yoğunluğu
+
+Son yıllarda, teknolojinin spor dünyasına entegrasyonu, performans istatistiklerinin gelişimini hızlandırmıştır. GPS cihazları, kameralar, sensörler ve veri analiz yazılımları sayesinde, oyuncuların hareketleri, hızları, kuvvetleri ve diğer performans parametreleri anında ve detaylı bir şekilde ölçülmektedir. Bu sayede, antrenörler ve sporcular, oyuncuların performanslarını daha iyi anlamak ve daha etkili antrenman programları geliştirmek için daha fazla bilgiye sahip olabilmektedir.
+
+Günümüzde, basketbol, beyzbol, futbol, buz hokeyi gibi birçok spor dalında, oyuncuların performansını değerlendirmek için karmaşık istatistiksel analizler uygulanmaktadır. Bu analizler, oyuncuların bireysel performanslarını, takım performansını ve hatta maçın gidişatını tahmin etmek için kullanılmaktadır.
+
+Sonuç olarak, performans istatistikleri, sporun tarihsel gelişiminin bir ürünüdür ve sporun daha bilimsel, veriye dayalı ve rekabetçi bir hale gelmesinde önemli bir rol oynamaktadır. Teknolojinin ilerlemesiyle birlikte, performans istatistiklerinin spor dünyasındaki önemi giderek artmaya devam edecektir.

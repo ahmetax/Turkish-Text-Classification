@@ -1,0 +1,21 @@
+Ekonomik Açıdan Sürdürülebilir Ekonomi Değerlendirmesi
+
+Sürdürülebilir ekonomi, günümüzün en kritik ve tartışılan kavramlarından biridir. Geleneksel ekonomik modellerin doğa ve insan kaynaklarını yeterince dikkate almaması, çevresel sorunların artması ve sosyal eşitsizliklerin derinleşmesi gibi sorunlara yol açmıştır. Bu nedenle, ekonomik kalkınmayı sadece maddi büyüme ile değil, aynı zamanda çevresel ve sosyal boyutları da gözeten bir yaklaşım, sürdürülebilir ekonomi olarak ortaya çıkmıştır. Bu değerlendirme, bir ekonominin uzun vadeli başarısını ve toplumun refahını nasıl etkilediğini anlamamıza yardımcı olur.
+
+Sürdürülebilir Ekonomi Değerlendirmesi’nin Temel Unsurları:
+
+Sürdürülebilir ekonomi değerlendirmesi, üç ana boyutu kapsayan bir yaklaşımdır:
+- Ekonomik Performans: Bu boyut, bir ekonominin büyüme oranlarını, istihdamı, verimliliği ve rekabet gücünü ölçer. Ancak, sürdürülebilir ekonomi değerlendirmesinde, bu metriklerin yanı sıra, kaynakların verimli kullanımı, atık yönetimi ve yenilenebilir enerji kaynaklarına yatırım gibi faktörler de dikkate alınır.
+- Çevresel Etki: Bu boyut, bir ekonominin doğal kaynaklar üzerindeki etkisini değerlendirir. Hava ve su kirliliği, ormansızlaşma, biyoçeşitlilik kaybı, iklim değişikliği gibi çevresel sorunlar, sürdürülebilir ekonomi değerlendirmesinde önemli bir yer tutar. Ekonomik faaliyetlerin çevresel ayak izi, bu değerlendirmede kritik bir gösterge olarak kullanılır.
+- Sosyal Etki: Bu boyut, bir ekonominin toplum üzerindeki etkisini değerlendirir. Eşitsizlik, yoksulluk, eğitim, sağlık, adalet, insan hakları gibi sosyal konular, sürdürülebilir ekonomi değerlendirmesinde göz önünde bulundurulur.
+
+Değerlendirme Yöntemleri:
+
+Sürdürülebilir ekonomi değerlendirmesi için çeşitli yöntemler kullanılabilir. Bunlar arasında:
+- Ekonomik Göstergeler: Gayri Safi Yurtiçi Hasıla (GSYİH), kişi başına düşen GSYİH, doğal kaynakların kullanımı gibi geleneksel göstergelerin yanı sıra, döngüsel ekonomi göstergeleri, karbon ayak izi, su ayak izi gibi yeni göstergeler de kullanılır.
+- Risk Analizi: Çevresel ve sosyal risklerin ekonomik faaliyetler üzerindeki potansiyel etkileri değerlendirilir.
+- Paydaş Katılımı: Yerel topluluklar, sivil toplum kuruluşları, işletmeler ve hükümetler gibi farklı paydaşların görüşleri alınarak değerlendirme sürecine dahil edilir.
+
+Sonuç:
+
+Sürdürülebilir ekonomi değerlendirmesi, sadece çevresel sorunları çözmekle kalmayıp, aynı zamanda daha adil, daha verimli ve daha dirençli bir ekonomi inşa etmemize yardımcı olabilir. Bu değerlendirme, ekonomik kararların daha bilinçli alınmasını sağlayarak, uzun vadeli refahı ve sürdürülebilirliği destekler. Sonuç olarak, sürdürülebilir ekonomi, geleceğimiz için en önemli yatırım olabilir.

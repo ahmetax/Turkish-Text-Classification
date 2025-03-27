@@ -1,0 +1,23 @@
+Phillips Eğrisi: Ekonomik Analizin Temel Aracı
+
+Phillips Eğrisi, 1958 yılında İngiliz ekonomisti A.W. Phillips ve ekonomist A.E. Wrigley tarafından ortaya atılan, enflasyon ve işsizlik arasındaki ilişkiyi inceleyen bir teoridir. Bu teori, kısa vadede enflasyon ve işsizlik arasında ters bir ilişki olduğunu öne sürerek, ekonomistlerin ve politika yapıcıların ekonomik analizlerinde önemli bir araç haline gelmiştir.
+
+Teorinin Kökeni ve İlk Keşfi
+
+Phillips, İngiltere'deki 19. ve 20. yüzyıl verilerini analiz ederken, işsizlik oranlarının yüksek olduğu dönemlerde enflasyon oranlarının da yüksek olduğunu gözlemlemişti. Bu gözlem, işsizlik oranlarının artmasıyla birlikte ücretlerin yükseldiğini ve bu ücret artışlarının üretici maliyetlerini artırarak enflasyona yol açabileceğini düşündürmüştü. Aynı zamanda, işsizlik oranlarının düşük olduğu dönemlerde ücretlerin gerilediğini ve bunun da enflasyonun düşmesine neden olduğunu fark etmişti.
+
+Eğrinin Şekli ve Yorumlanması
+
+Phillips Eğrisi, genellikle bir grafik üzerinde gösterilir. Grafik üzerinde yatay eksen işsizlik oranını, dikey eksen ise enflasyon oranını temsil eder. Teorinin temel varsayımı, kısa vadede bu iki değişken arasında ters bir ilişki olmasıdır. Yani, işsizlik oranları düştükçe enflasyon da artar ve tam tersi de geçerlidir.
+
+Ancak, bu ilişkinin uzun vadede geçerliliği yoktur. Uzun vadede, enflasyon ve işsizlik arasında herhangi bir ilişki bulunamaz. Bunun nedeni, ekonominin uzun vadede “Temel Doğru Çizgi” (Natural Rate of Unemployment - NRU) adı verilen bir noktada sabitlenmesidir. Bu noktada, işsizlik oranı ve enflasyon oranı sürekli olarak dengede kalır.
+
+Eğrinin Eleştirisi ve Günümüzdeki Durumu
+
+Phillips Eğrisi, uzun süre ekonominin anlaşılması için temel bir araç olarak kullanılmış olsa da, zamanla çeşitli eleştirilere maruz kalmıştır. Özellikle, 1970'lerde yaşanan “Yüksek Enflasyon ve Yüksek İşsizlik” döneminde, teorinin geçerliliği sorgulanmıştır. Bu dönemde, stagflasyon adı verilen bir ekonomik durumla karşı karşıya kalınmış, yani hem yüksek enflasyon hem de yüksek işsizlik aynı anda yaşanmıştır.
+
+Günümüzde, Phillips Eğrisi daha karmaşık bir anlayışa evrilmiştir. Yeni Keynesyen makroekonomi ve diğer teoriler, enflasyonun sadece işçilerin ücret talebiyle değil, aynı zamanda beklenen enflasyon, para arzı, maliye politikası ve küresel faktörler gibi birçok farklı unsurdan etkilendiğini savunmaktadır. Bu nedenle, Phillips Eğrisi artık basit bir ters ilişki olarak değil, daha dinamik ve karmaşık bir ilişki olarak ele alınmaktadır.
+
+Sonuç
+
+Phillips Eğrisi, makroekonomik analizde önemli bir kilometre taşıdır ve enflasyon ve işsizlik arasındaki ilişkiyi anlamak için hala kullanılmaktadır. Ancak, günümüzdeki ekonomik koşulların karmaşıklığı göz önüne alındığında, bu teorinin yorumlanması ve uygulanması dikkatli bir şekilde yapılmalıdır.

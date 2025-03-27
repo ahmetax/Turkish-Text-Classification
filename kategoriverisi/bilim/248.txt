@@ -1,0 +1,17 @@
+Fizik Arkasındaki Bilimsel Prensipler: Evrenin Temel Kuralları
+
+Fizik, evrenin ve onun içindeki tüm olayların temel prensiplerini anlamaya çalışan bilim dalıdır. Basitçe ifade etmek gerekirse, fizik, “şeyler neden böyle davranıyor?” sorusunun cevaplarını arar. Bu arayış, yüzyıllar boyunca birçok önemli keşfe ve teorinin geliştirilmesine yol açmıştır. Fizik, evrenin en temel yapı taşlarından, atomlara kadar uzanan her şeyi anlamak için matematiksel araçlar ve gözlemler kullanır.
+
+Fizik, temel olarak dört ana alandan oluşur: Mekanik, Elektromanyetizma, Termodinamik ve Kuantum Mekaniği. Bu alanlar, evrenin farklı yönlerini inceler ve birbirleriyle bağlantılıdır.
+
+Mekanik, nesnelerin hareketi, kuvvetler, enerji ve iş gibi kavramları inceler. Newton’un hareket yasaları, mekaniğin temelini oluşturur ve nesnelerin nasıl hareket ettiğini tanımlayan basit ama güçlü kurallardır. Bu yasalar, bir topun havada uçuşu, bir roketin uzaya gitmesi gibi günlük hayattaki olayları anlamamıza yardımcı olur.
+
+Elektromanyetizma, elektrik ve manyetik alanlar arasındaki ilişkiyi inceler. Bu alan, elektrik motorları, transformatörler ve radyo gibi teknolojilerin temelini oluşturur. James Clerk Maxwell’in denklemleri, elektrik ve manyetik alanların birbirleriyle nasıl etkileşimde bulunduğunu ve ışığın bir elektromanyetik dalga olduğunu açıklar.
+
+Termodinamik, ısı, sıcaklık ve enerji arasındaki ilişkiyi inceler. Bu alan, makinelerin nasıl çalıştığını, ısı transferini ve termostatların nasıl çalıştığını anlamamıza yardımcı olur. Termodinamik yasaları, enerji dönüşümlerinin temel kurallarını belirler ve örneğin bir motorun verimliliğini hesaplamamıza olanak tanır.
+
+Kuantum Mekaniği, atom ve atom altı parçacıkların davranışını inceler. Bu alan, klasik fizikten farklıdır ve olasılık ve belirsizlik gibi kavramları içerir. Örneğin, bir elektronun konumunu ve momentumunu aynı anda tam olarak belirlemek mümkün değildir. Kuantum mekaniği, atomların nasıl birleştiğini, ışığın nasıl emildiğini ve yayıldığını ve hatta bazı teknolojilerin (örneğin lazerler) temelini oluşturur.
+
+Fizik, sadece teorik bir disiplin değildir. Gözlemler ve deneyler yoluyla sürekli olarak geliştirilir ve doğrulanır. Fizikçiler, evrenin en büyük kozmik olaylarından, kara deliklerin oluşumuna kadar en küçük parçacıkların davranışlarına kadar birçok konuda araştırma yapmaktadır.
+
+Sonuç olarak, fizik, evrenin temel kurallarını anlamak için çabalayan, sürekli gelişen ve insanlığın bilgi birikimine önemli katkılar sağlayan bir bilim dalıdır. Fizik, evrenin nasıl çalıştığını anlamamızı sağlayarak, teknolojinin ilerlemesine ve yaşam kalitemizin yükselmesine yardımcı olur.

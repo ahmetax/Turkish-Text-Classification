@@ -1,0 +1,15 @@
+Felsefe Tarihindeki Olasılıksal Mantık Kavramı
+
+Olasılıksal mantık, felsefe tarihinde, özellikle 20. yüzyılın sonlarında ve 21. yüzyılın başlarında, olasılık teorisi ve mantık arasındaki ilişkiyi inceleyen bir akımdır. Bu akım, klasik mantığın kesin ve deterministik doğasını sorgulayarak, belirsizlik ve olasılık içeren durumları daha gerçekçi bir şekilde modellemeyi amaçlamıştır. Olasılıksal mantık, özellikle karmaşık sistemlerin, sosyal bilimlerin, ekonominin ve hatta felsefenin bazı alanlarında, özellikle de karar alma süreçlerini ve tahminleri analiz etmek için önemli bir araç haline gelmiştir.
+
+Klasik mantık, bir öncülün doğru veya yanlış olduğunu belirlemeye odaklanmıştır. Ancak, gerçek dünyada birçok durum, kesin bir cevabı olmayan belirsizlikler içerir. Örneğin, bir zar atıldığında hangi sayının geleceği kesin olarak bilinmez, sadece belirli bir olasılıkla geleceği bilinir. Olasılıksal mantık, bu tür belirsizlikleri doğrudan ele alır ve öncüllerin sadece doğru veya yanlış olduğunu değil, aynı zamanda belirli bir olasılıkla doğru olduğunu ifade etmeyi mümkün kılar.
+
+Olasılıksal mantığın kökleri, 1930’larda, matematikçi ve filozof Alfred Tarski’nin çalışmasına dayanır. Tarski, “Olasılıkla ilgili ilkelerin” (Principles of Probability) üzerine yaptığı çalışmalarla, olasılıkla ilgili bir mantık geliştirmeye yönelik önemli adımları atmıştır. Tarski, olasılıkla ilgili önermelerin, sadece doğru veya yanlış olmakla kalmayıp, aynı zamanda belirli bir olasılıkla doğru olabileceğini savunmuştur.
+
+Olasılıksal mantık, klasik mantıktan farklı olarak, öncüllerin değerini (doğru/yanlış) değil, öncüllerin değerini belirleyen bir olayın olasılığını ifade etmeye odaklanır. Bu, “Eğer X doğruysa, Y’nin doğru olma olasılığı %70’dir” gibi bir ifadeyle ifade edilebilir. Bu tür ifadeler, klasik mantıkta mümkün değildir.
+
+Olasılıksal mantık, özellikle Bayesian istatistiği ile yakından ilişkilidir. Bayesian istatistiği, önceden var olan bir inancın (prior) ve yeni elde edilen kanıtın (likelihood) bir araya getirilerek, sonuca (posterior) ulaşılmasını sağlar. Bu süreç, olasılıksal mantığın temel bir bileşenidir.
+
+Olasılıksal mantığın felsefi önemi, belirsizlik ve olasılık kavramlarını daha derinlemesine anlamamızı sağlamasıdır. Ayrıca, karar alma süreçlerini, olasılıkları dikkate alarak daha gerçekçi bir şekilde modellememizi sağlar. Günümüzde, olasılıksal mantık, yapay zeka, makine öğrenimi ve karmaşık sistemlerin analizi gibi alanlarda yaygın olarak kullanılmaktadır.
+
+Sonuç olarak, olasılıksal mantık, felsefe tarihinde, belirsizlik ve olasılık kavramlarını daha gerçekçi bir şekilde ele alan önemli bir akımdır. Bu akım, klasik mantığın sınırlamalarını aşarak, karmaşık sistemlerin ve karar alma süreçlerinin daha iyi anlaşılmasını sağlamıştır.

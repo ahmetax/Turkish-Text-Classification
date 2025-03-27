@@ -1,0 +1,23 @@
+Mantık Nedir? Felsefi Düşünceler Üzerine Bir Bakış
+
+Mantık, basitçe ifade etmek gerekirse, doğru ve yanlış arasındaki ilişkiyi inceleyen ve akıl yürütme süreçlerini inceleyen bir disiplindir. Ancak, felsefi açıdan bakıldığında mantık, sadece bir dilbilgisi kuralları listesi olmaktan çok daha fazlasıdır. Felsefede mantık, düşüncenin yapısını, geçerliliğini ve gücünü anlamak için kullanılan bir araçtır.
+
+Mantığın Kökenleri ve Tarihsel Gelişimi:
+
+Mantığın kökleri, Antik Yunan'a kadar uzanır. Aristoteles, mantığın ilk sistematik çalışmalarını yapmıştır. Onun "Mantık" adlı eseri, öncüllerden çıkarımlara, kategorilere ve syllogizlere (bir tür akıl yürütme biçimi) odaklanmıştır. Aristoteles'in mantığı, gözlemlenen gerçeklere dayanarak, evrenin temel prensiplerini anlamaya yönelik bir çabadır.
+
+Felsefi Düşüncelerin Mantıkla İlişkisi:
+
+Felsefe, temel olarak varoluş, bilgi, ahlak ve güzellik gibi kavramları sorgulamaya çalışır. Bu sorgulamalar, mantıksal akıl yürütme yoluyla yapılmalıdır. Çünkü felsefi argümanlar, belirli öncüllerden yola çıkarak, bu öncüllerin doğruluğuna dayanarak sonuçlara ulaşır.
+- Öncüllerin Rolü: Felsefi bir argümanın gücü, öncüllerinin doğruluğuna bağlıdır. Eğer öncüller yanlışsa, sonuç da yanlış olacaktır. Bu nedenle, felsefeciler, öncüllerin doğruluğunu ve geçerliliğini dikkatle değerlendirirler.
+- Akıl Yürütme Biçimleri: Mantık, farklı akıl yürütme biçimlerini inceler. Bunlar arasında:
+- Dedüktif Akıl Yürütme: Genel öncüllerden özel sonuçlara ulaşmayı hedefler.
+- İndüktif Akıl Yürütme: Özel gözlemlerden genel öncüllere ulaşmayı hedefler.
+- Abduktif Akıl Yürütme: Bir olguyu en iyi açıklayan teoriyi bulmayı hedefler.
+- Mantığın Sınırları: Mantık, her zaman doğru sonuçlar üretmeyebilir. Çünkü mantık, sadece dil ve akıl yürütme süreçlerini inceler. Ancak, gerçekliğin doğasını veya ahlaki değerleri belirleyemez.
+
+Günümüzdeki Mantığın Önemi:
+
+Günümüzde mantık, sadece felsefede değil, hukuk, bilgisayar bilimi, tıp ve diğer birçok alanda da kullanılmaktadır. Özellikle, bilgisayar bilimindeki "yapay zeka" alanında, mantık, yapay zeka sistemlerinin akıl yürütme yeteneklerini geliştirmek için temel bir araçtır.
+
+Sonuç olarak, mantık, düşüncenin yapısını anlamak, akıl yürütme süreçlerini analiz etmek ve argümanların geçerliliğini değerlendirmek için vazgeçilmez bir araçtır. Felsefi açıdan bakıldığında, mantık, bilgiye ulaşma ve doğru kararlar verme sürecinde önemli bir rol oynar.

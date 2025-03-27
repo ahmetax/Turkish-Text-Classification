@@ -1,0 +1,21 @@
+Sosyal Öğrenme Kuramları ve Öğrenimde Dönüştürücü Yaklaşımlar
+
+Sosyal öğrenme kuramları, geleneksel davranışçı ve bilişsel öğrenme teorilerine alternatif olarak, öğrenmenin sadece bireysel deneyimler üzerinden değil, sosyal etkileşimler ve gözlem yoluyla gerçekleştiğini vurgulayan önemli bir öğrenme teorisidir. Albert Bandura tarafından 1977’de geliştirilen bu kuram, öğrenmenin aktif, sosyal ve sürekli bir süreç olduğunu savunur.
+
+Sosyal Öğrenme Kuramının Temel Unsurları:
+
+Bandura’nın kuramının temelini oluşturan dört ana süreç şunlardır:
+
+1.  Gözlem (Modeling): Başarılı bir modelin (örneğin, bir öğretmen, akran veya medya figürü) davranışlarını izleyerek, bireyin yeni davranışlar öğrenmesi. Bu süreçte, modelin davranışının sonuçları da dikkatle incelenir.
+2.  Dikkat (Attention): Modelin davranışını dikkatle izleyebilme becerisi. Dikkat, modelin özelliklerine, öğrencinin ilgi alanlarına ve mevcut bilişsel kapasitesine bağlıdır.
+3.  Taklit (Retention): Gözlenen davranışı hafızada tutma ve gelecekte kullanıma hazır bulundurma. Bu, modelin davranışını hatırlama ve yeniden üretme becerisiyle ilgilidir.
+4.  Yansıtma (Reinforcement): Gözlenen davranışın sonuçlarını değerlendirme ve davranışın pekiştirilip pekiştirilmeyeceğine karar verme. Bu, davranışın ödüllendirilip cezalandırılmasının öğrenme sürecini etkileyen önemli bir faktördür.
+
+Dönüştürücü Öğrenme Yaklaşımları ve Sosyal Öğrenme Kuramları:
+
+Sosyal öğrenme kuramları, öğrenmeyi pasif bir alım değil, aktif bir süreç olarak görmesi, öğrenimde dönüştürücü yaklaşımların geliştirilmesini sağlamıştır. Bu yaklaşımlar, öğrencinin kendi deneyimlerini ve bilgilerini kullanarak, öğrenme sürecine aktif olarak katılımını teşvik eder.
+- Problem Tabanlı Öğrenme: Öğrencilere gerçek hayattaki sorunlar sunularak, çözüm bulma sürecinde aktif olarak yer almaları sağlanır. Öğrenciler, sosyal etkileşimler yoluyla bilgi edinir ve problem çözme becerilerini geliştirirler.
+- Öğrenci Merkezli Öğretim: Öğretmen, öğrencinin ihtiyaçlarını ve ilgi alanlarını göz önünde bulundurarak, öğrenme sürecini yönlendirir. Öğrenciler, kendi öğrenme hedeflerini belirleme ve ulaşma konusunda desteklenirler.
+- İşbirlikçi Öğrenme: Öğrenciler, grup halinde çalışarak bilgi paylaşımı yaparlar, fikir alışverişinde bulunurlar ve birlikte problem çözerler. Bu süreç, sosyal etkileşimler yoluyla öğrenmeyi destekler.
+
+Sonuç olarak, sosyal öğrenme kuramları, öğrenmenin sosyal etkileşimler ve gözlem yoluyla gerçekleştiğini vurgulayarak, öğrenimde dönüştürücü yaklaşımların geliştirilmesine katkıda bulunmuştur. Bu yaklaşımlar, öğrencinin aktif katılımını, problem çözme becerilerini ve sosyal etkileşimlerini geliştirerek, daha anlamlı ve kalıcı öğrenme deneyimleri sunar.

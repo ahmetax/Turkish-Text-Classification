@@ -1,0 +1,31 @@
+Arz ve Talep Analizi: Ekonominin Temel Gücü
+
+Arz ve talep, ekonominin en temel ve en çok işlev gören kavramlarından ikisidir. Bir mal veya hizmetin fiyatının belirlenmesinde ve piyasa dengesinin nasıl oluştuğunda kritik bir rol oynarlar. Bu iki güç, arz ve talebi anlamak, ekonomik olayları analiz etmek ve öngörmek için vazgeçilmez bir araçtır.
+
+Talep Nedir?
+
+Talep, bir tüketici tarafından belirli bir fiyattan satın alınmak istenen bir mal veya hizmet miktarıdır. Talep, fiyatın kendisi kadar önemli bir faktördür. Genellikle, bir malın fiyatı arttıkça, tüketicilerin o malı satın alma isteği azalır. Bu durum, talep eğrisi ile temsil edilir. Talep eğrisi, genellikle negatif eğimli bir çizgi şeklinde gösterilir; yani fiyat arttıkça talep miktarı da azalır.
+
+Talep üzerinde etkili olan diğer faktörler şunlardır:
+- Gelir: Tüketicilerin geliri arttıkça, daha fazla mal ve hizmet satın alma gücü elde ederler, bu da talebi artırır.
+- Diğer Malların Fiyatları: Bir malın fiyatı arttıkça, benzer mallara olan talep azalabilir (sübut etkisine örneğin).
+- Tüketici Tercihleri: Tüketicilerin damak zevkleri, moda, sağlık gibi faktörler talebi etkileyebilir.
+- Beklentiler: Tüketicilerin gelecekle ilgili beklentileri (örneğin, bir ürünün fiyatının gelecekte artacağı beklentisi) talebi etkileyebilir.
+
+Arz Nedir?
+
+Arz, bir üreticinin belirli bir fiyattan piyasaya sürme isteyerek sunabileceği mal veya hizmet miktarıdır. Arz, fiyatın kendisi kadar önemlidir. Genellikle, bir malın fiyatı arttıkça üreticiler daha fazla mal üretmek isterler, bu da arzı artırır.
+
+Arz üzerinde etkili olan faktörler şunlardır:
+- Üretim Maliyetleri: Hammadde fiyatları, işgücü maliyetleri, enerji maliyetleri gibi faktörler arzı etkiler.
+- Teknoloji: Daha verimli teknolojiler, üretim maliyetlerini düşürerek arzı artırabilir.
+- Doğal Afetler: Depremler, seller, kuraklık gibi doğal afetler arzı olumsuz etkileyebilir.
+- Üretici Sayısı: Piyasada bulunan üretici sayısı da arzı etkiler.
+
+Piyasa Dengesi
+
+Arz ve talebin kesiştiği noktada piyasa dengesi oluşur. Bu noktada, piyasadaki arz edilen miktar, talep edilen miktara eşittir. Bu noktadaki fiyat, denge fiyatı olarak adlandırılır ve denge miktarı da denge miktarı olarak adlandırılır.
+
+Piyasa, denge fiyatından sapmalar olduğunda otomatik olarak düzeltmeye çalışır. Örneğin, arzın talebi aşması durumunda fiyatlar yükselir ve talep artar. Talep, arzı aşması durumunda fiyatlar düşer ve talep azalır.
+
+Sonuç olarak, arz ve talep kavramları, ekonomik sistemin temelini oluşturur ve piyasa fiyatlarının belirlenmesinde, ekonomik büyüme ve değişimlerin anlaşılmasında kritik bir rol oynar. Bu iki güç arasındaki denge, ekonomik istikrarın sağlanmasında önemli bir faktördür.

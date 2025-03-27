@@ -1,0 +1,21 @@
+İnternetin Tarihi: Bir Devrimin Doğuşu ve Evrimi
+
+İnternet, günümüz dünyasının en temel ve etkili araçlarından biri haline gelmiş, hayatımızın her alanına nüfuz etmiş bir devrimdir. Ancak bu devrimin kökleri, 20. yüzyılın ortalarına kadar uzanır ve bilimsel araştırmalardan başlayıp, askeri ihtiyaçlar ve sivil kullanımın birleşimiyle şekillenmiştir. İnternetin tarihi, sadece teknolojik bir gelişimi değil, aynı zamanda bilgiye erişim, iletişim ve kültür paylaşımı alanlarında da devrim niteliğinde bir değişimi temsil eder.
+
+İlk Adımlar: ARPANET ve Paketleşmiş Veri Aktarımı
+
+İnternetin temelleri, 1969 yılında Amerika Birleşik Devletleri Ordası’nın Araştırma Geliştirme Teşkilatı’nın (ARPA) geliştirdiği ARPANET projesiyle atıldı. Soğuk Savaş döneminde, merkezi bir sistemin tek bir saldırıya kurban olması durumunda, bilgilerin farklı düğümlerden (bilgisayar ağları) ayrı ayrı aktarılması ve bu sayede iletişimin kesilmemesi hedefleniyordu. Bu sistem, “paketleşmiş veri aktarımı” yöntemini kullanarak, veriyi küçük parçalara (paket) bölüp, bu paketleri hedeflerine yönlendiriyordu. Bu, internetin temel mimarisi olarak kabul edilir.
+
+TCP/IP Protokolü ve İnternet’in Doğuşu
+
+1970’lerde, Robert Kahn ve Vinton Cerf tarafından geliştirilen TCP/IP (Transmission Control Protocol/Internet Protocol) protokolü, ARPANET’in gelişiminde kritik bir rol oynadı. TCP/IP, farklı ağları birbirine bağlayan, veriyi güvenilir bir şekilde aktaran ve ağ iletişimi için standart bir dil oluşturarak internetin evrimini hızlandırdı. 1983’te ARPANET, TCP/IP protokolüne geçiş yaparak, internetin modern formunun ortaya çıkmasını sağladı.
+
+World Wide Web ve Kullanıcı Erişimi
+
+1989’da Tim Berners-Lee, CERN’de (Evrensel Bilimsel Araştırma Merkezi) World Wide Web’i (WWW) geliştirdi. WWW, internetin kullanıcı dostu bir arayüzü sunarak, metin, resim ve bağlantılar aracılığıyla bilgi paylaşımını kolaylaştırdı. İlk web tarayıcısı ve sunucusu geliştirildi ve internet, artık sadece bilim insanları ve araştırmacılar için değil, herkes için erişilebilir hale geldi.
+
+İnternetin Yaygınlaşması ve Geleceği
+
+1990’lı yıllarda internet, akademik ve bilimsel kullanımdan sivil alana yayılmaya başladı. E-posta, web siteleri ve online alışveriş gibi uygulamalar, internetin popülaritesini daha da artırdı. Günümüzde internet, sosyal medya, online eğitim, tele sağlık ve akıllı şehirler gibi birçok alanda önemli bir rol oynamaktadır.
+
+İnternetin geleceği, yapay zeka, nesnelerin interneti (IoT) ve 5G gibi teknolojilerle şekillenecektir. İnternet, hayatımızın her alanında daha da entegre olacak ve yeni olanaklar sunmaya devam edecektir. Ancak, internetin kullanımının etik ve sosyal etkileri de göz önünde bulundurulmalı ve bu konuda bilinçli bir yaklaşım benimsenmelidir.

@@ -1,0 +1,25 @@
+İşletim Sistemlerinin Evrimi: Dünyayı Nasıl Değiştiriyor?
+
+İşletim sistemleri (İS), bilgisayarların ve diğer dijital cihazların temelini oluşturan yazılım türleridir. Günümüzdeki hayatımızın her alanında, akıllı telefonlardan otomobillere, ev aletlerinden endüstriyel makinelerden, her yerde karşımıza çıkarlar. Ancak bu sistemlerin bugünkü hali, uzun ve karmaşık bir evrimin sonucudur. İşletim sistemlerinin evrimi, sadece teknolojik bir gelişme değil, aynı zamanda dünyamızın nasıl işlediğini, iletişim kurduğumuzu ve hatta düşündüğümüzü değiştirmiştir.
+
+İlk Adımlar: Zamanın Baştarafı
+
+İşletim sistemlerinin kökleri, 1950’lerde ve 60’larda ortaya çıkmıştır. O dönemdeki sistemler, genellikle donanıma özel olarak tasarlanmış ve çok sınırlı işlevsellik sunuyordu. IBM’in System/360 ailesi, ilk ticari işletim sistemlerinden biriydi ve çoklu görev yeteneği sunarak, aynı anda birden fazla programın çalışmasına olanak tanıyordu. Ancak bu sistemler, uzman kullanıcılar için tasarlanmış ve kullanımı oldukça karmaşıktı.
+
+MS-DOS ve PC’nin Yükselişi
+
+1981’de IBM PC’nin piyasaya sürülmesi, işletim sistemleri dünyasında bir dönüm noktası oldu. IBM, MS-DOS (Microsoft Disk Operating System) işletim sistemini kullanmaya karar verdi. MS-DOS, basitliği ve geniş donanım uyumluluğu sayesinde, kişisel bilgisayar pazarında büyük bir başarı yakaladı. Bu dönemde, bilgisayarlar artık sadece bilimsel ve mühendislik hesaplamaları için değil, aynı zamanda ofis işleri, oyunlar ve kişisel kullanım için de yaygın olarak kullanılmaya başlandı.
+
+Grafik Arayüzler ve Windows
+
+1985’te Microsoft, Windows işletim sistemini piyasaya sürdü. Windows, grafik arayüzü sayesinde kullanıcıların bilgisayarla daha kolay ve sezgisel bir şekilde etkileşim kurmasını sağladı. Bu, bilgisayar kullanımını daha geniş bir kitleye açarak, bilgisayarın evlere ve işyerlerine taşınmasında önemli bir rol oynadı.
+
+Mac OS ve Çekişmeli Evrim
+
+Apple’ın Mac OS işletim sistemi de, grafik arayüz ve kullanıcı dostu tasarım ilkeleriyle, işletim sistemleri evrimine önemli katkılar sağladı. Mac OS’nin başarısı, diğer üreticileri de grafik arayüzlere yönelmesine neden oldu.
+
+Günümüz ve Gelecek
+
+Günümüzde, Windows, macOS, Linux ve Android gibi farklı işletim sistemleri, farklı amaçlar için geliştirilmiştir. Mobil cihazlarda Android, masaüstü bilgisayarlarda Windows ve macOS, sunucularda ise Linux yaygın olarak kullanılmaktadır. Gelecekte, bulut tabanlı işletim sistemleri ve yapay zeka ile entegre sistemler, daha da karmaşık ve kişiselleştirilmiş deneyimler sunmaya hazırlanmaktadır.
+
+İşletim sistemlerinin evrimi, sadece teknolojik bir ilerleme değil, aynı zamanda insan hayatını, çalışma şeklimizi ve iletişim kurma biçimimizi kökten değiştirmiştir. Bu evrim, hala devam etmektedir ve gelecekte de hayatımızın her alanında daha da önemli bir rol oynamaya devam edecektir.
