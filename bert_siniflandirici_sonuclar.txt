@@ -1,0 +1,23 @@
+BERT Sınıflandırıcı Sonuçları
+Model: dbmdz/bert-base-turkish-cased
+Doğruluk: 0.9958
+
+Sınıflandırma Raporu:
+              precision    recall  f1-score   support
+
+       tarih       0.99      0.97      0.98       120
+       bilim       1.00      0.99      1.00       120
+   teknoloji       0.99      1.00      1.00       120
+         din       1.00      0.99      1.00       120
+    edebiyat       1.00      1.00      1.00       120
+      eğitim       1.00      1.00      1.00       120
+     ekonomi       1.00      1.00      1.00       120
+     felsefe       1.00      1.00      1.00       120
+       medya       1.00      1.00      1.00       120
+     siyaset       1.00      1.00      1.00       120
+        spor       0.99      1.00      1.00       120
+kültür-sanat       0.98      0.99      0.98       120
+
+    accuracy                           1.00      1440
+   macro avg       1.00      1.00      1.00      1440
+weighted avg       1.00      1.00      1.00      1440
