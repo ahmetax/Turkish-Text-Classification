@@ -106,6 +106,9 @@ def classify_file(model, tokenizer, id2label, file_path, device=None):
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             text = f.read()
+            if len(text) <= 1000:
+                print(f"Dosya: {file_path} çok küçük.")
+                return None, None
             # Çok uzun metinleri kısalt
             if len(text) > 11000:
                 text = text[1000:11000] # ilk 1000 karakteri atla
